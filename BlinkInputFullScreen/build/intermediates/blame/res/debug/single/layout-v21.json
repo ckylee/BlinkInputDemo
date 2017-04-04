@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

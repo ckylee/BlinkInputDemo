@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlinkInputCombination/BlinkInputCombination.iml" filepath="$PROJECT_DIR$/BlinkInputCombination/BlinkInputCombination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlinkInputDemo.iml" filepath="$PROJECT_DIR$/BlinkInputDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlinkInputDetectorDemo/BlinkInputDetectorDemo.iml" filepath="$PROJECT_DIR$/BlinkInputDetectorDemo/BlinkInputDetectorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlinkInputDirectAPI/BlinkInputDirectAPI.iml" filepath="$PROJECT_DIR$/BlinkInputDirectAPI/BlinkInputDirectAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlinkInputFullScreen/BlinkInputFullScreen.iml" filepath="$PROJECT_DIR$/BlinkInputFullScreen/BlinkInputFullScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlinkInputRandomScanDemo/BlinkInputRandomScanDemo.iml" filepath="$PROJECT_DIR$/BlinkInputRandomScanDemo/BlinkInputRandomScanDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlinkInputSegmentDemo/BlinkInputSegmentDemo.iml" filepath="$PROJECT_DIR$/BlinkInputSegmentDemo/BlinkInputSegmentDemo.iml" />
+    </modules>
+  </component>
+</project>

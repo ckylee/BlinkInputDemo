@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lighton.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lightoff.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png"
+    }
+]

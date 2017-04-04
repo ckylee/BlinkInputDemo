@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:5:5-35
+uses-sdk
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\ckylee\.android\build-cache\02f096cc69c9c49a8c9eca9fe23262f65012267b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\ckylee\.android\build-cache\9491604df6b5c437e981cd970eaa42014fb08bdc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\ckylee\.android\build-cache\5138d4a15ba035f791e735e6827b943d69db582d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\ckylee\.android\build-cache\4a392b18f97fcd9cfead1136dd6097d19ebbc020\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\ckylee\.android\build-cache\55c1dc9b97d2083f68bf6569c45e97b3f8624c21\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\ckylee\.android\build-cache\57b97ebaa8e76ae07e8f9df67f5aa14c282e7643\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\ckylee\.android\build-cache\f77291c1cbaee457c28426d66ef691d5849dd1f0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\ckylee\.android\build-cache\187abf45305894b4a48547a0da8fd9b1abf160cc\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\ckylee\.android\build-cache\b3656078045ba6a12bc589ac28e3a30a22d8c136\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\ckylee\.android\build-cache\02f096cc69c9c49a8c9eca9fe23262f65012267b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:13:5-65
+MERGED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:14:5-69
+MERGED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:14:22-66
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:16:5-60
+MERGED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:23:5-25:36
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:17:5-19:36
+MERGED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:18:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:20:5-22:36
+MERGED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:21:9-53
+application
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:24:5-39:19
+MERGED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:37:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\ckylee\.android\build-cache\02f096cc69c9c49a8c9eca9fe23262f65012267b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\ckylee\.android\build-cache\9491604df6b5c437e981cd970eaa42014fb08bdc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\ckylee\.android\build-cache\5138d4a15ba035f791e735e6827b943d69db582d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\ckylee\.android\build-cache\4a392b18f97fcd9cfead1136dd6097d19ebbc020\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\ckylee\.android\build-cache\55c1dc9b97d2083f68bf6569c45e97b3f8624c21\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\ckylee\.android\build-cache\57b97ebaa8e76ae07e8f9df67f5aa14c282e7643\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\ckylee\.android\build-cache\f77291c1cbaee457c28426d66ef691d5849dd1f0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\ckylee\.android\build-cache\187abf45305894b4a48547a0da8fd9b1abf160cc\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\ckylee\.android\build-cache\b3656078045ba6a12bc589ac28e3a30a22d8c136\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:27:9-41
+	tools:ignore
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:39:9-39
+	android:allowBackup
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:26:9-45
+	android:largeHeap
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:28:9-33
+	android:theme
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:29:9-73
+activity#com.microblink.ocr.FullScreenOCR
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:30:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:31:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\ckylee\StudioProjects\BlinkInputDemo\BlinkInputFullScreen\src\main\AndroidManifest.xml:36:27-74
+supports-screens
+ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:12:5-18:40
+	android:largeScreens
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:15:9-37
+	android:xlargeScreens
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:18:9-37
+	android:resizeable
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:16:9-34
+	android:anyDensity
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:13:9-34
+uses-feature#0x00020000
+ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:32:5-35:20
+	android:glEsVersion
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:33:9-41
+	android:required
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:34:9-33
+activity#com.microblink.activity.SegmentScanActivity
+ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:40:9-43:52
+	android:screenOrientation
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:43:13-49
+	android:configChanges
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:41:13-71
+activity#com.microblink.activity.RandomScanActivity
+ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:44:9-47:52
+	android:screenOrientation
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:47:13-49
+	android:configChanges
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:46:13-59
+	android:name
+		ADDED from [com.microblink:blinkinput:3.2.0] C:\Users\ckylee\.android\build-cache\83da8268d7b461b279d13d78ecfbb7d3abaef265\output\AndroidManifest.xml:45:13-70
