@@ -10,13 +10,6 @@
               android:paddingTop="@dimen/activity_vertical_margin"
               tools:context="com.microblink.ocr.MainActivity">
 
-    <Button
-        android:id="@+id/btnSimple"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:onClick="simpleIntegration"
-        android:text="Simple integration"/>
 
     <Button
         android:id="@+id/btnCustomUI"
@@ -24,22 +17,8 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:onClick="advancedIntegration"
-        android:text="Custom scan UI integration"/>
+        android:text="Start Scan"/>
 
-    <Button
-        android:id="@+id/btnRegex"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:onClick="regexExample"
-        android:text="Regex parser example"/>
 
-    <Button
-        android:id="@+id/btnMobileCoupons"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:onClick="mobileCouponsExample"
-        android:text="Mobile coupons example"/>
 
 </LinearLayout>

@@ -15,7 +15,7 @@ public class Configurator {
         // reuse OCR results from multiple video frames to improve quality
 
         RawParserSettings rawSett = new RawParserSettings();
-        rawSett.setUseSieve(false);
+        rawSett.setUseSieve(true);
 
         // create amount parser settings from preset for large amounts
         // If parser is initialized with settings from preset LARGE_AMOUNT, amounts without decimal point
@@ -27,9 +27,6 @@ public class Configurator {
         //        AmountParserSettings.createFromPreset(AmountParserSettings.Preset.GENERIC);
 
         return new ScanConfiguration[] {
-                new ScanConfiguration(R.string.date_title, R.string.date_msg, "Date", new DateParserSettings()),
-                new ScanConfiguration(R.string.large_amount_title, R.string.amount_msg, "Amount", amountSettings),
-                new ScanConfiguration(R.string.email_title, R.string.email_msg, "EMail", new EMailParserSettings()),
                 new ScanConfiguration(R.string.raw_title, R.string.raw_msg, "Raw", rawSett)
         };
     }
