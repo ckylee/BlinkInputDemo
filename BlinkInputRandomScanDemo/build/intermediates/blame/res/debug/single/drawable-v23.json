@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputRandomScanDemo/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/chunsingyu/.android/build-cache/745af663b0c6483eefe731415aa7c3f00a1b652b/output/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

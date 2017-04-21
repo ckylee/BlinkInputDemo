@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputFullScreen/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputFullScreen/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputFullScreen\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

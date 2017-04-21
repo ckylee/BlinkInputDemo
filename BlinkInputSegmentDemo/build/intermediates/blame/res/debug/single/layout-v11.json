@@ -1,26 +1,50 @@
 [
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/chunsingyu/.android/build-cache/745af663b0c6483eefe731415aa7c3f00a1b652b/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/chunsingyu/.android/build-cache/745af663b0c6483eefe731415aa7c3f00a1b652b/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/chunsingyu/.android/build-cache/745af663b0c6483eefe731415aa7c3f00a1b652b/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/chunsingyu/.android/build-cache/745af663b0c6483eefe731415aa7c3f00a1b652b/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/chunsingyu/.android/build-cache/745af663b0c6483eefe731415aa7c3f00a1b652b/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\02f096cc69c9c49a8c9eca9fe23262f65012267b\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/chunsingyu/.android/build-cache/745af663b0c6483eefe731415aa7c3f00a1b652b/output/res/layout-v11/notification_template_big_media.xml"
     }
 ]

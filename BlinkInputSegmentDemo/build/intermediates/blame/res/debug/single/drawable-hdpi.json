@@ -1,70 +1,138 @@
 [
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mb_logo.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\mb_logo.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/mb_logo.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/mb_logo.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help03.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\help03.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mb_logo.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\mb_logo.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_flashlight.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_flashlight.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_flashlight.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_flashlight.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_ur.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_ur.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_ur.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_ur.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help01.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\help01.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help01.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\help01.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_lr.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_lr.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_lr.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_lr.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_help.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_help.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_flashlight_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_flashlight_selected.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_flashlight_selected.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_flashlight_selected.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_exit_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_exit_selected.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_exit_selected.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_exit_selected.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_exit.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_exit.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_ok_big.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_ok_big.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_ok_big.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_ok_big.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_ok_big_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_ok_big_selected.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_exit.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_exit.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_ok_big_selected.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_ok_big_selected.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/scan_corner_ll.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/scan_corner_ll.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_ll.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_ll.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/help02.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/help02.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help02.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\help02.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_help_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_help_selected.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_ul.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_ul.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_exit_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_exit_selected.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_help_selected.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_help_selected.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/scan_corner_lr.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/scan_corner_lr.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_ll.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_ll.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_help_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_help_selected.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help03.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\help03.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/help01.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/help01.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_help.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_help.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/help03.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/help03.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_flashlight.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_flashlight.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/scan_corner_ul.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/scan_corner_ul.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_help.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_help.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_ok_big.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_ok_big.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_exit.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_exit.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_ok_big_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\icon_ok_big_selected.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\help02.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\help02.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_corner_ul.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-hdpi\\scan_corner_ul.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/icon_flashlight_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/icon_flashlight_selected.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-hdpi/scan_corner_ur.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-hdpi/scan_corner_ur.png"
     }
 ]

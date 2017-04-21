@@ -22,15 +22,15 @@ public class MainActivity extends Activity {
     // obtain your licence key at http://microblink.com/login or
     // contact us at http://help.microblink.com
     private static final String LICENSE_KEY = "OEWESRMK-OENGL3VK-IVWYB4DY-OTNT457T-5PGLUYNA-IVQ2ARLB-UBCWCAAC-IYXKU56C";
-    private static final String NAME_TOTAL_AMOUNT = "TotalAmount";
-    private static final String NAME_TAX = "Tax";
-    private static final String NAME_IBAN = "IBAN";
+    //private static final String NAME_TOTAL_AMOUNT = "TotalAmount";
+    //private static final String NAME_TAX = "Tax";
+    //private static final String NAME_IBAN = "IBAN";
 
     private static final int BLINK_OCR_VIN_REQUEST_CODE = 101;
-    private static final String NAME_VIN = "VIN";
+    //private static final String NAME_VIN = "VIN";
 
     private static final int BLINK_OCR_MOBILE_COUPON_REQUEST_CODE = 102;
-    private static final String NAME_MOBILE_COUPON = "MobileCoupon";
+    //private static final String NAME_MOBILE_COUPON = "MobileCoupon";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,9 +66,9 @@ public class MainActivity extends Activity {
                 // each scan configuration contains two string resource IDs: string shown in title bar and string shown
                 // in text field above scan box. Besides that, it contains name of the result and settings object
                 // which defines what will be scanned.
-                new ScanConfiguration(R.string.amount_title, R.string.amount_msg, NAME_TOTAL_AMOUNT, new AmountParserSettings()),
-                new ScanConfiguration(R.string.tax_title, R.string.tax_msg, NAME_TAX, new AmountParserSettings()),
-                new ScanConfiguration(R.string.iban_title, R.string.iban_msg, NAME_IBAN, new IbanParserSettings())
+               // new ScanConfiguration(R.string.amount_title, R.string.amount_msg, NAME_TOTAL_AMOUNT, new AmountParserSettings()),
+                //new ScanConfiguration(R.string.tax_title, R.string.tax_msg, NAME_TAX, new AmountParserSettings()),
+                //new ScanConfiguration(R.string.iban_title, R.string.iban_msg, NAME_IBAN, new IbanParserSettings())
         };
 
         intent.putExtra(SegmentScanActivity.EXTRAS_SCAN_CONFIGURATION, conf);
@@ -117,12 +117,6 @@ public class MainActivity extends Activity {
         // now let's create a RegexParser
         RegexParserSettings regexParserSettings = new RegexParserSettings("[A-Z0-9]{17}", engineOptions);
 
-        // same as in simple integration, create a scan configuration array
-        ScanConfiguration conf[] = new ScanConfiguration[] {
-                new ScanConfiguration(R.string.vin_title, R.string.vin_msg, NAME_VIN, regexParserSettings)
-        };
-
-        intent.putExtra(SegmentScanActivity.EXTRAS_SCAN_CONFIGURATION, conf);
 
         // optionally, if we want the help screen to be available to user on camera screen,
         // we can simply prepare an intent for help activity and pass it to SegmentScanActivity
@@ -155,16 +149,6 @@ public class MainActivity extends Activity {
         // allow codes without prefix, but prefix "*123*" will be added (we defined prefix in parser settings constructor)
         topUpParserSett.setAllowNoPrefix(true);
 
-        // we need to scan 1 item, so we will add 1 scan configuration to scan configuration array
-        ScanConfiguration conf[] = new ScanConfiguration[] {
-                // each scan configuration contains two string resource IDs: string shown in title bar and string shown
-                // in text field above scan box. Besides that, it contains name of the result and settings object
-                // which defines what will be scanned.
-                new ScanConfiguration(R.string.mobile_coupon_title, R.string.mobile_coupon_msg, NAME_MOBILE_COUPON, topUpParserSett)
-        };
-
-        intent.putExtra(SegmentScanActivity.EXTRAS_SCAN_CONFIGURATION, conf);
-
         // optionally, if we want the help screen to be available to user on camera screen,
         // we can simply prepare an intent for help activity and pass it to SegmentScanActivity
         Intent helpIntent = new Intent(this, HelpActivity.class);
@@ -179,7 +163,7 @@ public class MainActivity extends Activity {
      * This method is called whenever control is returned from activity started with
      * startActivityForResult.
      */
-    @Override
+    /*@Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         // first we need to check that we have indeed returned from SegmentScanActivity with success
@@ -204,5 +188,5 @@ public class MainActivity extends Activity {
                     break;
             }
         }
-    }
+    }*/
 }

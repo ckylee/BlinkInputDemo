@@ -72,7 +72,7 @@
                 android:layout_marginTop="@dimen/activity_vertical_margin"
                 android:background="#00000000"
                 android:onClick="onBtnExitClicked"
-                android:src="@drawable/exit"/>
+                android:src="@drawable/exit" />
 
             <ImageButton
                 android:id="@+id/btnHelp"
@@ -86,7 +86,7 @@
                 android:layout_marginTop="@dimen/activity_vertical_margin"
                 android:background="#00000000"
                 android:onClick="onBtnHelpClicked"
-                android:src="@drawable/help"/>
+                android:src="@drawable/help" />
 
             <ImageButton
                 android:id="@+id/btnFlash"
@@ -102,24 +102,26 @@
                 android:onClick="onBtnFlashClicked"
                 android:src="@drawable/flashlight"
                 android:visibility="gone"
-                tools:visibility="visible"/>
+                tools:visibility="visible" />
 
-            <LinearLayout android:layout_width="match_parent"
-                          android:layout_height="match_parent"
-                          android:layout_above="@+id/txtMessage"
-                          android:layout_below="@+id/btnExit"
-                          android:gravity="center_vertical"
-                          android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/txtMessage"
+                android:layout_below="@+id/btnExit"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
 
                 <com.microblink.ocr.SlidingTabLayout
                     android:id="@+id/indicator"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"/>
+                    android:layout_height="wrap_content" />
+
                 <android.support.v4.view.ViewPager
                     android:id="@+id/viewpager"
                     android:layout_width="match_parent"
                     android:layout_height="0px"
-                    android:background="@android:color/white"/>
+                    android:background="@android:color/white" />
 
             </LinearLayout>
 
@@ -127,11 +129,11 @@
                 android:id="@+id/txtMessage"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="3dp"
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true"
-                android:textColor="@color/text_white"
-                android:text="Position scan element in this frame"/>
+                android:layout_marginTop="3dp"
+                android:text="Position scan element in this frame"
+                android:textColor="@color/text_white" />
 
         </RelativeLayout>
 
@@ -145,18 +147,18 @@
             <View
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="0.08"/>
+                android:layout_weight="0.08" />
 
             <include
                 layout="@layout/viewfinder"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="0.84"/>
+                android:layout_weight="0.84" />
 
             <View
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="0.08"/>
+                android:layout_weight="0.08" />
 
         </LinearLayout>
 
@@ -186,14 +188,14 @@
                     android:id="@+id/txtResult"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:backgroundTint="@color/text_white"
                     android:editable="true"
                     android:maxLines="4"
                     android:text="123,54"
                     android:textAlignment="center"
                     android:textColor="@color/text_white"
-                    android:background="@android:color/transparent"
-                    android:textSize="@dimen/text_size"
-                    android:backgroundTint="@color/text_white"/>
+                    android:textSize="@dimen/text_size" />
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -205,8 +207,8 @@
                         android:layout_height="wrap_content"
                         android:layout_centerInParent="true"
                         android:background="@android:color/transparent"
-                        android:src="@drawable/ok_big"
-                        android:onClick="onBtnAcceptClicked"/>
+                        android:onClick="onBtnAcceptClicked"
+                        android:src="@drawable/ok_big" />
 
                 </RelativeLayout>
 

@@ -1,30 +1,58 @@
 [
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_exit.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_exit.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi/icon_help_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-ldpi/icon_help_selected.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_flashlight.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_flashlight.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi/icon_exit_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-ldpi/icon_exit_selected.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_exit.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_exit.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_flashlight_selected.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_flashlight_selected.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_flashlight.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_flashlight.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_exit_selected.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_exit_selected.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi/icon_flashlight.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-ldpi/icon_flashlight.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_help.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_help.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_help_selected.png",
-        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_help_selected.png"
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi/icon_help.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-ldpi/icon_help.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi/icon_flashlight_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-ldpi/icon_flashlight_selected.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_flashlight_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_flashlight_selected.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi/icon_exit.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-ldpi/icon_exit.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_exit_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_exit_selected.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_help.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_help.png"
+    },
+    {
+        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_help_selected.png",
+        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\src\\main\\res\\drawable-ldpi\\icon_help_selected.png"
     }
 ]
