@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-land\\overlay_random_scan.xml",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\layout-land\\overlay_random_scan.xml"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-land\\overlay_random_scan.xml",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\layout-land\\overlay_random_scan.xml"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/layout-land/overlay_random_scan.xml",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/layout-land/overlay_random_scan.xml"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-land\\overlay_random_scan.xml",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\layout-land\\overlay_random_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\layout-land\\overlay_random_scan.xml",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\layout-land\\overlay_random_scan.xml"
     }
 ]

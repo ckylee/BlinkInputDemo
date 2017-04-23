@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputRandomScanDemo/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputRandomScanDemo/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputRandomScanDemo\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

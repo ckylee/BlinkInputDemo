@@ -12,12 +12,28 @@
 
 
     <Button
+        android:id="@+id/uploadFile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:onClick="uploadCSV"
+        android:text="UPLOAD CSV"/>
+
+    <Button
         android:id="@+id/btnCustomUI"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:onClick="advancedIntegration"
-        android:text="Start Scan"/>
+        android:text="Start Scan (Black and White)"/>
+
+    <Button
+        android:id="@+id/btnCustomUI_Color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:onClick="advancedColorIntegration"
+        android:text="Start Scan (Color)"/>
 
 
 

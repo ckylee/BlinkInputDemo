@@ -4,8 +4,8 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
     defaultConfig {
-        applicationId 'com.microblink.input'
-        minSdkVersion 10
+        applicationId 'com.ielm2100e.team3'
+        minSdkVersion 15
         targetSdkVersion rootProject.ext.targetSdkVersion
     }
     lintOptions {

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.microblink.input.test">
+    package="com.ielm2100e.team3.test">
 
-    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="25" />
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="25" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.microblink.input"
+                     android:targetPackage="com.ielm2100e.team3"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.microblink.input"/>
+                     android:label="Tests for com.ielm2100e.team3"/>
 </manifest>
