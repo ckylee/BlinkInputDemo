@@ -5,7 +5,7 @@ package com.microblink.ocr;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.microblink.input";
+  public static final String APPLICATION_ID = "com.ielm2100e.team3";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 8;

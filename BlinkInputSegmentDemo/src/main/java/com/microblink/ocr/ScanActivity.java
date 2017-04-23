@@ -20,6 +20,7 @@ import android.widget.Toast;
 
 import com.microblink.geometry.Rectangle;
 import com.microblink.hardware.SuccessCallback;
+import com.microblink.hardware.camera.CameraType;
 import com.microblink.help.HelpActivity;
 import com.microblink.recognition.InvalidLicenceKeyException;
 import com.microblink.recognizers.BaseRecognitionResult;
@@ -43,7 +44,7 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
 
     // obtain your licence key at http://microblink.com/login or
     // contact us at http://help.microblink.com
-    private static final String LICENSE_KEY = "OEWESRMK-OENGL3VK-IVWYB4DY-OTNT457T-5PGLUYNA-IVQ2ARLB-UBCWCAAC-IYXKU56C";
+    private static final String LICENSE_KEY = "E6RHCO64-Y5QPOYZV-V67PXGJV-V3O43IWZ-ZF32PZNQ-M5F6C5UC-PVRXKSDZ-U6M2YGNG";
     /** CameraPermissionManager is provided helper class that can be used to obtain the permission to use camera.
      * It is used on Android 6.0 (API level 23) or newer.
      */
@@ -121,6 +122,9 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         // we want camera to use whole available view space by cropping the camera preview
         // instead of letterboxing it
         mRecognizerView.setAspectMode(CameraAspectMode.ASPECT_FILL);
+
+        //do camera settings for black and white
+
         // In order for scanning to work, you must enter a valid licence key. Without licence key,
         // scanning will not work. Licence key is bound the the package name of your app, so when
         // obtaining your licence key from Microblink make sure you give us the correct package name
@@ -177,7 +181,7 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         mRecognizerView.create();
         // update message and title based on selected configuration
         // update of recognizer settings is not needed (flag is set to false)
-        updateUI(false);
+        //updateUI(false);
     }
 
 

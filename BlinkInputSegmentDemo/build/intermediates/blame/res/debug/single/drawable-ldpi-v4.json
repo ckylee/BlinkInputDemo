@@ -1,66 +1,98 @@
 [
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lighton.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lighton.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_blink_ocr.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_blink_ocr.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lightoff.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lightoff.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_blink_ocr.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_blink_ocr.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_help_blink_ocr.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/icon_help_blink_ocr.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_help_selected_blink_ocr.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/icon_help_selected_blink_ocr.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_exit_blink_ocr.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/icon_exit_blink_ocr.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\lighton.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png",
-        "source": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/lightoff.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/lightoff.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_selected_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_flashlight_blink_ocr.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/icon_flashlight_blink_ocr.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_flashlight_selected_blink_ocr.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/icon_flashlight_selected_blink_ocr.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/lighton.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/lighton.png"
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lighton.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lighton.png"
     },
     {
-        "merged": "/Users/chunsingyu/StudioProjects/BlinkInputDemo/BlinkInputSegmentDemo/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_exit_selected_blink_ocr.png",
-        "source": "/Users/chunsingyu/.android/build-cache/ab9c3811e2705b597789379f2948bb30cf3b992b/output/res/drawable-ldpi-v4/icon_exit_selected_blink_ocr.png"
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_help_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\lightoff.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\icon_help_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lightoff.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\lightoff.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\icon_exit_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png",
+        "source": "C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_flashlight_selected_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_help_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\.android\\build-cache\\ab9c3811e2705b597789379f2948bb30cf3b992b\\output\\res\\drawable-ldpi-v4\\icon_help_blink_ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\StudioProjects\\BlinkInputDemo\\BlinkInputSegmentDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_exit_blink_ocr.png",
+        "source": "C:\\Users\\chunsingyu\\StudioProjects\\BlinkInputDemo\\C:\\Users\\ckylee\\.android\\build-cache\\83da8268d7b461b279d13d78ecfbb7d3abaef265\\output\\res\\drawable-ldpi-v4\\icon_exit_blink_ocr.png"
     }
 ]

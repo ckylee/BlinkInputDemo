@@ -2287,7 +2287,7 @@ containing a value of this type.
         public static final int skip_blink_ocr=0x7f020090;
     }
     public static final class id {
-        public static final int action0=0x7f0a0074;
+        public static final int action0=0x7f0a0075;
         public static final int action_bar=0x7f0a004f;
         public static final int action_bar_activity_content=0x7f0a0000;
         public static final int action_bar_container=0x7f0a004e;
@@ -2295,115 +2295,116 @@ containing a value of this type.
         public static final int action_bar_spinner=0x7f0a0001;
         public static final int action_bar_subtitle=0x7f0a002d;
         public static final int action_bar_title=0x7f0a002c;
-        public static final int action_container=0x7f0a0071;
+        public static final int action_container=0x7f0a0072;
         public static final int action_context_bar=0x7f0a0050;
-        public static final int action_divider=0x7f0a0078;
-        public static final int action_image=0x7f0a0072;
+        public static final int action_divider=0x7f0a0079;
+        public static final int action_image=0x7f0a0073;
         public static final int action_menu_divider=0x7f0a0002;
         public static final int action_menu_presenter=0x7f0a0003;
         public static final int action_mode_bar=0x7f0a004c;
         public static final int action_mode_bar_stub=0x7f0a004b;
         public static final int action_mode_close_button=0x7f0a002e;
-        public static final int action_text=0x7f0a0073;
-        public static final int actions=0x7f0a0081;
+        public static final int action_text=0x7f0a0074;
+        public static final int actions=0x7f0a0082;
         public static final int activity_chooser_view_content=0x7f0a002f;
         public static final int add=0x7f0a0013;
         public static final int alertTitle=0x7f0a0043;
         public static final int always=0x7f0a0023;
         public static final int beginning=0x7f0a0020;
         public static final int bottom=0x7f0a002a;
-        public static final int bottom_bar=0x7f0a0097;
-        public static final int bottom_bar_continue=0x7f0a0099;
-        public static final int bottom_bar_overwrite_confirm=0x7f0a009b;
-        public static final int bottom_space_holder=0x7f0a00a5;
-        public static final int btnAccept=0x7f0a0090;
+        public static final int bottom_bar=0x7f0a0098;
+        public static final int bottom_bar_continue=0x7f0a009a;
+        public static final int bottom_bar_overwrite_confirm=0x7f0a009c;
+        public static final int bottom_space_holder=0x7f0a00a6;
+        public static final int btnAccept=0x7f0a0091;
         public static final int btnCustomUI=0x7f0a0060;
-        public static final int btnExit=0x7f0a0088;
-        public static final int btnFlash=0x7f0a008a;
-        public static final int btnHelp=0x7f0a0089;
-        public static final int btnSkip=0x7f0a0095;
+        public static final int btnCustomUI_Color=0x7f0a0061;
+        public static final int btnExit=0x7f0a0089;
+        public static final int btnFlash=0x7f0a008b;
+        public static final int btnHelp=0x7f0a008a;
+        public static final int btnSkip=0x7f0a0096;
         public static final int buttonPanel=0x7f0a0036;
-        public static final int camera_ask_main=0x7f0a0064;
-        public static final int camera_ask_permission_button=0x7f0a0065;
-        public static final int cancel_action=0x7f0a0075;
+        public static final int camera_ask_main=0x7f0a0065;
+        public static final int camera_ask_permission_button=0x7f0a0066;
+        public static final int cancel_action=0x7f0a0076;
         public static final int checkbox=0x7f0a0046;
-        public static final int chronometer=0x7f0a007d;
-        public static final int clear_element_button=0x7f0a006e;
-        public static final int closeButton=0x7f0a0068;
+        public static final int chronometer=0x7f0a007e;
+        public static final int clear_element_button=0x7f0a006f;
+        public static final int closeButton=0x7f0a0069;
         public static final int collapseActionView=0x7f0a0024;
         public static final int contentPanel=0x7f0a0039;
-        public static final int continue_button=0x7f0a009a;
+        public static final int continue_button=0x7f0a009b;
         public static final int custom=0x7f0a0040;
         public static final int customPanel=0x7f0a003f;
-        public static final int custom_segment_scan_root=0x7f0a0063;
+        public static final int custom_segment_scan_root=0x7f0a0064;
         public static final int decor_content_parent=0x7f0a004d;
         public static final int default_activity_button=0x7f0a0032;
         public static final int disableHome=0x7f0a000c;
         public static final int edit_query=0x7f0a0051;
         public static final int end=0x7f0a0021;
-        public static final int end_padder=0x7f0a0087;
+        public static final int end_padder=0x7f0a0088;
         public static final int expand_activities_button=0x7f0a0030;
         public static final int expanded_menu=0x7f0a0045;
         public static final int fill=0x7f0a001e;
         public static final int fit=0x7f0a001f;
-        public static final int helpImage=0x7f0a006d;
-        public static final int helpMessage=0x7f0a006c;
+        public static final int helpImage=0x7f0a006e;
+        public static final int helpMessage=0x7f0a006d;
         public static final int home=0x7f0a0004;
         public static final int homeAsUp=0x7f0a000d;
-        public static final int horizontal_container=0x7f0a00a1;
+        public static final int horizontal_container=0x7f0a00a2;
         public static final int icon=0x7f0a0034;
-        public static final int icon_group=0x7f0a0082;
+        public static final int icon_group=0x7f0a0083;
         public static final int ifRoom=0x7f0a0025;
         public static final int image=0x7f0a0031;
-        public static final int imageView1=0x7f0a0066;
-        public static final int imgLL=0x7f0a00b1;
-        public static final int imgLR=0x7f0a00b2;
-        public static final int imgUL=0x7f0a00af;
-        public static final int imgUR=0x7f0a00b0;
-        public static final int indicator=0x7f0a008c;
-        public static final int info=0x7f0a007e;
+        public static final int imageView1=0x7f0a0067;
+        public static final int imgLL=0x7f0a00b2;
+        public static final int imgLR=0x7f0a00b3;
+        public static final int imgUL=0x7f0a00b0;
+        public static final int imgUR=0x7f0a00b1;
+        public static final int indicator=0x7f0a008d;
+        public static final int info=0x7f0a007f;
         public static final int inversePortrait=0x7f0a001a;
-        public static final int label_btn_accept=0x7f0a0092;
-        public static final int label_btn_skip=0x7f0a0094;
+        public static final int label_btn_accept=0x7f0a0093;
+        public static final int label_btn_skip=0x7f0a0095;
         public static final int landscapeLeft=0x7f0a001b;
         public static final int landscapeRight=0x7f0a001c;
-        public static final int layResult=0x7f0a008e;
-        public static final int laySkip=0x7f0a0093;
-        public static final int left_button=0x7f0a009d;
-        public static final int left_space_holder=0x7f0a00a2;
-        public static final int line1=0x7f0a0083;
-        public static final int line3=0x7f0a0085;
+        public static final int layResult=0x7f0a008f;
+        public static final int laySkip=0x7f0a0094;
+        public static final int left_button=0x7f0a009e;
+        public static final int left_space_holder=0x7f0a00a3;
+        public static final int line1=0x7f0a0084;
+        public static final int line3=0x7f0a0086;
         public static final int listMode=0x7f0a0009;
         public static final int list_item=0x7f0a0033;
-        public static final int media_actions=0x7f0a0077;
+        public static final int media_actions=0x7f0a0078;
         public static final int middle=0x7f0a0022;
         public static final int multiply=0x7f0a0014;
         public static final int never=0x7f0a0026;
         public static final int none=0x7f0a000e;
         public static final int normal=0x7f0a000a;
-        public static final int notification_background=0x7f0a0080;
-        public static final int notification_main_column=0x7f0a007a;
-        public static final int notification_main_column_container=0x7f0a0079;
+        public static final int notification_background=0x7f0a0081;
+        public static final int notification_main_column=0x7f0a007b;
+        public static final int notification_main_column_container=0x7f0a007a;
         public static final int parentPanel=0x7f0a0038;
         public static final int portrait=0x7f0a001d;
         public static final int progress_circular=0x7f0a0005;
         public static final int progress_horizontal=0x7f0a0006;
         public static final int radio=0x7f0a0048;
-        public static final int random_scan_root=0x7f0a0061;
+        public static final int random_scan_root=0x7f0a0062;
         public static final int rec_view=0x7f0a005f;
-        public static final int recognizer_view=0x7f0a0062;
-        public static final int relativeHelpLayout=0x7f0a006b;
-        public static final int right_button=0x7f0a009e;
-        public static final int right_icon=0x7f0a007f;
-        public static final int right_side=0x7f0a007b;
-        public static final int right_space_holder=0x7f0a00a4;
-        public static final int roi_overlay=0x7f0a0091;
-        public static final int roi_overlay_view=0x7f0a0096;
-        public static final int roi_window=0x7f0a00a3;
-        public static final int scan_elements_container=0x7f0a0098;
-        public static final int scan_message_holder=0x7f0a00a8;
-        public static final int scan_message_left_space_holder=0x7f0a00a7;
-        public static final int scan_message_right_space_holder=0x7f0a00a9;
+        public static final int recognizer_view=0x7f0a0063;
+        public static final int relativeHelpLayout=0x7f0a006c;
+        public static final int right_button=0x7f0a009f;
+        public static final int right_icon=0x7f0a0080;
+        public static final int right_side=0x7f0a007c;
+        public static final int right_space_holder=0x7f0a00a5;
+        public static final int roi_overlay=0x7f0a0092;
+        public static final int roi_overlay_view=0x7f0a0097;
+        public static final int roi_window=0x7f0a00a4;
+        public static final int scan_elements_container=0x7f0a0099;
+        public static final int scan_message_holder=0x7f0a00a9;
+        public static final int scan_message_left_space_holder=0x7f0a00a8;
+        public static final int scan_message_right_space_holder=0x7f0a00aa;
         public static final int screen=0x7f0a0015;
         public static final int scrollIndicatorDown=0x7f0a003e;
         public static final int scrollIndicatorUp=0x7f0a003a;
@@ -2429,41 +2430,41 @@ containing a value of this type.
         public static final int src_atop=0x7f0a0016;
         public static final int src_in=0x7f0a0017;
         public static final int src_over=0x7f0a0018;
-        public static final int status_bar_latest_event_content=0x7f0a0076;
+        public static final int status_bar_latest_event_content=0x7f0a0077;
         public static final int submenuarrow=0x7f0a0049;
         public static final int submit_area=0x7f0a005a;
         public static final int tabMode=0x7f0a000b;
-        public static final int text=0x7f0a0086;
-        public static final int text2=0x7f0a0084;
+        public static final int text=0x7f0a0087;
+        public static final int text2=0x7f0a0085;
         public static final int textSpacerNoButtons=0x7f0a003d;
         public static final int textSpacerNoTitle=0x7f0a003c;
-        public static final int textView1=0x7f0a0067;
-        public static final int time=0x7f0a007c;
+        public static final int textView1=0x7f0a0068;
+        public static final int time=0x7f0a007d;
         public static final int title=0x7f0a0035;
         public static final int titleDividerNoCustom=0x7f0a0044;
         public static final int title_template=0x7f0a0042;
         public static final int top=0x7f0a002b;
         public static final int topPanel=0x7f0a0041;
-        public static final int top_space_holder=0x7f0a00a0;
+        public static final int top_space_holder=0x7f0a00a1;
         public static final int triangle=0x7f0a0028;
-        public static final int tvLabel=0x7f0a006f;
-        public static final int tvValue=0x7f0a0070;
-        public static final int tv_bottom_bar_message=0x7f0a009c;
-        public static final int txtMessage=0x7f0a008b;
-        public static final int txtResult=0x7f0a008f;
-        public static final int txtTitle=0x7f0a009f;
+        public static final int tvLabel=0x7f0a0070;
+        public static final int tvValue=0x7f0a0071;
+        public static final int tv_bottom_bar_message=0x7f0a009d;
+        public static final int txtMessage=0x7f0a008c;
+        public static final int txtResult=0x7f0a0090;
+        public static final int txtTitle=0x7f0a00a0;
         public static final int underline=0x7f0a0029;
-        public static final int underline_indicator=0x7f0a006a;
+        public static final int underline_indicator=0x7f0a006b;
         public static final int up=0x7f0a0008;
         public static final int useLogo=0x7f0a0012;
-        public static final int view_pager=0x7f0a0069;
-        public static final int viewfinder=0x7f0a00ac;
-        public static final int viewfinder_bottom_space_holder=0x7f0a00ae;
-        public static final int viewfinder_horizontal_container=0x7f0a00aa;
-        public static final int viewfinder_left_space_holder=0x7f0a00ab;
-        public static final int viewfinder_right_space_holder=0x7f0a00ad;
-        public static final int viewfinder_top_space_holder=0x7f0a00a6;
-        public static final int viewpager=0x7f0a008d;
+        public static final int view_pager=0x7f0a006a;
+        public static final int viewfinder=0x7f0a00ad;
+        public static final int viewfinder_bottom_space_holder=0x7f0a00af;
+        public static final int viewfinder_horizontal_container=0x7f0a00ab;
+        public static final int viewfinder_left_space_holder=0x7f0a00ac;
+        public static final int viewfinder_right_space_holder=0x7f0a00ae;
+        public static final int viewfinder_top_space_holder=0x7f0a00a7;
+        public static final int viewpager=0x7f0a008e;
         public static final int withText=0x7f0a0027;
         public static final int wrap_content=0x7f0a0019;
     }
@@ -2994,35 +2995,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.microblink.input:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.microblink.input:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.microblink.input:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.microblink.input:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.microblink.input:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.microblink.input:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.microblink.input:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.microblink.input:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.microblink.input:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.microblink.input:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.microblink.input:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.microblink.input:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.microblink.input:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.microblink.input:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.microblink.input:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.microblink.input:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.microblink.input:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.microblink.input:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.microblink.input:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.microblink.input:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.microblink.input:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.microblink.input:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.microblink.input:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.microblink.input:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.microblink.input:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.microblink.input:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.microblink.input:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.microblink.input:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.microblink.input:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.ielm2100e.team3:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.ielm2100e.team3:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.ielm2100e.team3:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.ielm2100e.team3:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.ielm2100e.team3:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.ielm2100e.team3:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.ielm2100e.team3:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.ielm2100e.team3:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.ielm2100e.team3:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.ielm2100e.team3:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.ielm2100e.team3:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.ielm2100e.team3:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.ielm2100e.team3:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.ielm2100e.team3:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.ielm2100e.team3:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.ielm2100e.team3:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.ielm2100e.team3:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.ielm2100e.team3:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.ielm2100e.team3:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.ielm2100e.team3:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.ielm2100e.team3:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.ielm2100e.team3:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.ielm2100e.team3:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.ielm2100e.team3:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.ielm2100e.team3:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.ielm2100e.team3:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.ielm2100e.team3:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.ielm2100e.team3:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.ielm2100e.team3:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3065,17 +3066,17 @@ containing a value of this type.
             0x7f01005f
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#background}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:background
+          @attr name com.ielm2100e.team3:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3083,11 +3084,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.microblink.input:backgroundSplit
+          @attr name com.ielm2100e.team3:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3095,11 +3096,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.microblink.input:backgroundStacked
+          @attr name com.ielm2100e.team3:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3111,11 +3112,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetEnd
+          @attr name com.ielm2100e.team3:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3127,11 +3128,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetEndWithActions
+          @attr name com.ielm2100e.team3:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3143,11 +3144,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetLeft
+          @attr name com.ielm2100e.team3:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3159,11 +3160,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetRight
+          @attr name com.ielm2100e.team3:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3175,11 +3176,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetStart
+          @attr name com.ielm2100e.team3:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3191,21 +3192,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetStartWithNavigation
+          @attr name com.ielm2100e.team3:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:customNavigationLayout
+          @attr name com.ielm2100e.team3:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3223,21 +3224,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:displayOptions
+          @attr name com.ielm2100e.team3:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:divider
+          @attr name com.ielm2100e.team3:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3249,11 +3250,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:elevation
+          @attr name com.ielm2100e.team3:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#height}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3265,11 +3266,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:height
+          @attr name com.ielm2100e.team3:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3279,51 +3280,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:hideOnContentScroll
+          @attr name com.ielm2100e.team3:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:homeAsUpIndicator
+          @attr name com.ielm2100e.team3:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:homeLayout
+          @attr name com.ielm2100e.team3:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:icon
+          @attr name com.ielm2100e.team3:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:indeterminateProgressStyle
+          @attr name com.ielm2100e.team3:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3335,21 +3336,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:itemPadding
+          @attr name com.ielm2100e.team3:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:logo
+          @attr name com.ielm2100e.team3:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3363,21 +3364,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:navigationMode
+          @attr name com.ielm2100e.team3:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:popupTheme
+          @attr name com.ielm2100e.team3:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3389,21 +3390,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:progressBarPadding
+          @attr name com.ielm2100e.team3:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:progressBarStyle
+          @attr name com.ielm2100e.team3:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3413,21 +3414,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:subtitle
+          @attr name com.ielm2100e.team3:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:subtitleTextStyle
+          @attr name com.ielm2100e.team3:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#title}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3437,17 +3438,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:title
+          @attr name com.ielm2100e.team3:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:titleTextStyle
+          @attr name com.ielm2100e.team3:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3499,12 +3500,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.microblink.input:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.microblink.input:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.microblink.input:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.microblink.input:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.microblink.input:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.microblink.input:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.ielm2100e.team3:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.ielm2100e.team3:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.ielm2100e.team3:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.ielm2100e.team3:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.ielm2100e.team3:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.ielm2100e.team3:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3518,17 +3519,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010012, 0x7f010022
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#background}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:background
+          @attr name com.ielm2100e.team3:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3536,21 +3537,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.microblink.input:backgroundSplit
+          @attr name com.ielm2100e.team3:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:closeItemLayout
+          @attr name com.ielm2100e.team3:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#height}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3562,27 +3563,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:height
+          @attr name com.ielm2100e.team3:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:subtitleTextStyle
+          @attr name com.ielm2100e.team3:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:titleTextStyle
+          @attr name com.ielm2100e.team3:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3591,8 +3592,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.microblink.input:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.microblink.input:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.ielm2100e.team3:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.ielm2100e.team3:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3601,17 +3602,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010023, 0x7f010024
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:expandActivityOverflowButtonDrawable
+          @attr name com.ielm2100e.team3:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3621,7 +3622,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:initialActivityCount
+          @attr name com.ielm2100e.team3:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3631,12 +3632,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.microblink.input:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.microblink.input:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.microblink.input:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.microblink.input:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle com.microblink.input:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.microblink.input:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.ielm2100e.team3:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.ielm2100e.team3:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.ielm2100e.team3:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.ielm2100e.team3:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.ielm2100e.team3:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.ielm2100e.team3:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3657,47 +3658,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonPanelSideLayout
+          @attr name com.ielm2100e.team3:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:listItemLayout
+          @attr name com.ielm2100e.team3:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:listLayout
+          @attr name com.ielm2100e.team3:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:multiChoiceItemLayout
+          @attr name com.ielm2100e.team3:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -3707,17 +3708,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:showTitle
+          @attr name com.ielm2100e.team3:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:singleChoiceItemLayout
+          @attr name com.ielm2100e.team3:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatImageView.
@@ -3727,7 +3728,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.microblink.input:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.ielm2100e.team3:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -3742,13 +3743,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:srcCompat
+          @attr name com.ielm2100e.team3:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -3758,9 +3759,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.microblink.input:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.microblink.input:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.microblink.input:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.ielm2100e.team3:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.ielm2100e.team3:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.ielm2100e.team3:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -3777,17 +3778,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:tickMark
+          @attr name com.ielm2100e.team3:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -3798,11 +3799,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:tickMarkTint
+          @attr name com.ielm2100e.team3:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -3819,7 +3820,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:tickMarkTintMode
+          @attr name com.ielm2100e.team3:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -3897,7 +3898,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.microblink.input:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.ielm2100e.team3:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3912,14 +3913,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.microblink.input:textAllCaps
+          @attr name com.ielm2100e.team3:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -3928,121 +3929,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.microblink.input:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.microblink.input:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.microblink.input:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.microblink.input:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.microblink.input:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.microblink.input:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.microblink.input:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.microblink.input:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.microblink.input:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.microblink.input:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.microblink.input:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.microblink.input:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.microblink.input:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.microblink.input:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.microblink.input:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.microblink.input:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.microblink.input:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.microblink.input:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.microblink.input:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.microblink.input:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.microblink.input:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.microblink.input:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.microblink.input:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.microblink.input:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.microblink.input:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.microblink.input:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.microblink.input:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.microblink.input:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.microblink.input:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.microblink.input:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.microblink.input:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.microblink.input:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.microblink.input:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.microblink.input:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.microblink.input:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.ielm2100e.team3:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.ielm2100e.team3:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.ielm2100e.team3:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.ielm2100e.team3:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.ielm2100e.team3:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.ielm2100e.team3:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.ielm2100e.team3:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.ielm2100e.team3:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.ielm2100e.team3:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.ielm2100e.team3:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.ielm2100e.team3:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.ielm2100e.team3:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.ielm2100e.team3:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.ielm2100e.team3:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.ielm2100e.team3:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.ielm2100e.team3:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.ielm2100e.team3:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.ielm2100e.team3:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.ielm2100e.team3:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.ielm2100e.team3:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.ielm2100e.team3:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.ielm2100e.team3:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.ielm2100e.team3:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.ielm2100e.team3:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.ielm2100e.team3:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.ielm2100e.team3:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.ielm2100e.team3:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.ielm2100e.team3:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.ielm2100e.team3:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.ielm2100e.team3:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.ielm2100e.team3:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.ielm2100e.team3:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.ielm2100e.team3:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.ielm2100e.team3:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.ielm2100e.team3:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.microblink.input:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.microblink.input:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.microblink.input:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.microblink.input:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.microblink.input:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.microblink.input:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.microblink.input:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.microblink.input:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.microblink.input:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.microblink.input:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.microblink.input:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.microblink.input:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.microblink.input:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.microblink.input:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.microblink.input:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.microblink.input:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.microblink.input:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.microblink.input:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.microblink.input:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.microblink.input:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.microblink.input:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.microblink.input:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.microblink.input:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.microblink.input:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.microblink.input:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.microblink.input:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.microblink.input:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.microblink.input:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.microblink.input:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.microblink.input:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.microblink.input:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.microblink.input:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.microblink.input:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.microblink.input:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.microblink.input:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.microblink.input:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.microblink.input:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.microblink.input:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.microblink.input:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.microblink.input:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.microblink.input:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.microblink.input:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.microblink.input:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.microblink.input:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.microblink.input:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.microblink.input:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.microblink.input:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.microblink.input:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.microblink.input:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.microblink.input:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.microblink.input:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.microblink.input:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.microblink.input:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.microblink.input:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.microblink.input:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.microblink.input:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.microblink.input:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.microblink.input:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.microblink.input:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.microblink.input:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.microblink.input:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.microblink.input:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.microblink.input:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.microblink.input:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.microblink.input:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.microblink.input:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.microblink.input:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.microblink.input:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.microblink.input:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.microblink.input:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.microblink.input:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.microblink.input:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.microblink.input:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.microblink.input:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.microblink.input:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.microblink.input:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.microblink.input:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.microblink.input:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.ielm2100e.team3:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.ielm2100e.team3:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.ielm2100e.team3:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.ielm2100e.team3:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.ielm2100e.team3:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.ielm2100e.team3:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.ielm2100e.team3:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.ielm2100e.team3:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.ielm2100e.team3:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.ielm2100e.team3:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.ielm2100e.team3:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.ielm2100e.team3:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.ielm2100e.team3:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.ielm2100e.team3:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.ielm2100e.team3:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.ielm2100e.team3:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.ielm2100e.team3:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.ielm2100e.team3:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.ielm2100e.team3:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.ielm2100e.team3:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.ielm2100e.team3:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.ielm2100e.team3:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.ielm2100e.team3:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.ielm2100e.team3:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.ielm2100e.team3:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.ielm2100e.team3:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.ielm2100e.team3:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.ielm2100e.team3:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.ielm2100e.team3:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.ielm2100e.team3:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.ielm2100e.team3:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.ielm2100e.team3:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.ielm2100e.team3:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.ielm2100e.team3:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.ielm2100e.team3:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.ielm2100e.team3:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.ielm2100e.team3:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.ielm2100e.team3:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.ielm2100e.team3:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.ielm2100e.team3:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.ielm2100e.team3:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.ielm2100e.team3:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.ielm2100e.team3:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.ielm2100e.team3:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.ielm2100e.team3:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.ielm2100e.team3:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.ielm2100e.team3:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.ielm2100e.team3:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.ielm2100e.team3:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.ielm2100e.team3:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.ielm2100e.team3:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.ielm2100e.team3:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.ielm2100e.team3:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.ielm2100e.team3:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.ielm2100e.team3:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.ielm2100e.team3:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.ielm2100e.team3:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.ielm2100e.team3:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.ielm2100e.team3:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.ielm2100e.team3:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.ielm2100e.team3:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.ielm2100e.team3:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.ielm2100e.team3:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.ielm2100e.team3:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.ielm2100e.team3:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.ielm2100e.team3:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.ielm2100e.team3:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.ielm2100e.team3:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.ielm2100e.team3:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.ielm2100e.team3:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.ielm2100e.team3:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.ielm2100e.team3:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.ielm2100e.team3:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.ielm2100e.team3:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.ielm2100e.team3:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.ielm2100e.team3:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.ielm2100e.team3:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.ielm2100e.team3:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4192,37 +4193,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01009e, 0x7f01009f, 0x7f0100a0
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarDivider
+          @attr name com.ielm2100e.team3:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarItemBackground
+          @attr name com.ielm2100e.team3:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarPopupTheme
+          @attr name com.ielm2100e.team3:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4242,111 +4243,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:actionBarSize
+          @attr name com.ielm2100e.team3:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarSplitStyle
+          @attr name com.ielm2100e.team3:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarStyle
+          @attr name com.ielm2100e.team3:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarTabBarStyle
+          @attr name com.ielm2100e.team3:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarTabStyle
+          @attr name com.ielm2100e.team3:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarTabTextStyle
+          @attr name com.ielm2100e.team3:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarTheme
+          @attr name com.ielm2100e.team3:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionBarWidgetTheme
+          @attr name com.ielm2100e.team3:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionButtonStyle
+          @attr name com.ielm2100e.team3:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionDropDownStyle
+          @attr name com.ielm2100e.team3:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionMenuTextAppearance
+          @attr name com.ielm2100e.team3:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4354,181 +4355,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.microblink.input:actionMenuTextColor
+          @attr name com.ielm2100e.team3:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeBackground
+          @attr name com.ielm2100e.team3:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeCloseButtonStyle
+          @attr name com.ielm2100e.team3:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeCloseDrawable
+          @attr name com.ielm2100e.team3:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeCopyDrawable
+          @attr name com.ielm2100e.team3:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeCutDrawable
+          @attr name com.ielm2100e.team3:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeFindDrawable
+          @attr name com.ielm2100e.team3:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModePasteDrawable
+          @attr name com.ielm2100e.team3:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModePopupWindowStyle
+          @attr name com.ielm2100e.team3:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeSelectAllDrawable
+          @attr name com.ielm2100e.team3:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeShareDrawable
+          @attr name com.ielm2100e.team3:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeSplitBackground
+          @attr name com.ielm2100e.team3:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeStyle
+          @attr name com.ielm2100e.team3:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionModeWebSearchDrawable
+          @attr name com.ielm2100e.team3:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionOverflowButtonStyle
+          @attr name com.ielm2100e.team3:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionOverflowMenuStyle
+          @attr name com.ielm2100e.team3:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:activityChooserViewStyle
+          @attr name com.ielm2100e.team3:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:alertDialogButtonGroupStyle
+          @attr name com.ielm2100e.team3:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4538,27 +4539,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:alertDialogCenterButtons
+          @attr name com.ielm2100e.team3:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:alertDialogStyle
+          @attr name com.ielm2100e.team3:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:alertDialogTheme
+          @attr name com.ielm2100e.team3:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -4574,117 +4575,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:autoCompleteTextViewStyle
+          @attr name com.ielm2100e.team3:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:borderlessButtonStyle
+          @attr name com.ielm2100e.team3:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonBarButtonStyle
+          @attr name com.ielm2100e.team3:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonBarNegativeButtonStyle
+          @attr name com.ielm2100e.team3:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonBarNeutralButtonStyle
+          @attr name com.ielm2100e.team3:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonBarPositiveButtonStyle
+          @attr name com.ielm2100e.team3:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonBarStyle
+          @attr name com.ielm2100e.team3:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonStyle
+          @attr name com.ielm2100e.team3:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:buttonStyleSmall
+          @attr name com.ielm2100e.team3:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:checkboxStyle
+          @attr name com.ielm2100e.team3:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:checkedTextViewStyle
+          @attr name com.ielm2100e.team3:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4695,11 +4696,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorAccent
+          @attr name com.ielm2100e.team3:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4710,11 +4711,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorBackgroundFloating
+          @attr name com.ielm2100e.team3:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4725,11 +4726,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorButtonNormal
+          @attr name com.ielm2100e.team3:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4740,11 +4741,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorControlActivated
+          @attr name com.ielm2100e.team3:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4755,11 +4756,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorControlHighlight
+          @attr name com.ielm2100e.team3:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4770,11 +4771,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorControlNormal
+          @attr name com.ielm2100e.team3:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4785,11 +4786,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorPrimary
+          @attr name com.ielm2100e.team3:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4800,11 +4801,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorPrimaryDark
+          @attr name com.ielm2100e.team3:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4815,21 +4816,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:colorSwitchThumbNormal
+          @attr name com.ielm2100e.team3:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:controlBackground
+          @attr name com.ielm2100e.team3:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4841,51 +4842,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:dialogPreferredPadding
+          @attr name com.ielm2100e.team3:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:dialogTheme
+          @attr name com.ielm2100e.team3:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:dividerHorizontal
+          @attr name com.ielm2100e.team3:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:dividerVertical
+          @attr name com.ielm2100e.team3:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:dropDownListViewStyle
+          @attr name com.ielm2100e.team3:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4897,21 +4898,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:dropdownListPreferredItemHeight
+          @attr name com.ielm2100e.team3:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:editTextBackground
+          @attr name com.ielm2100e.team3:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4919,81 +4920,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.microblink.input:editTextColor
+          @attr name com.ielm2100e.team3:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:editTextStyle
+          @attr name com.ielm2100e.team3:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:homeAsUpIndicator
+          @attr name com.ielm2100e.team3:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:imageButtonStyle
+          @attr name com.ielm2100e.team3:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:listChoiceBackgroundIndicator
+          @attr name com.ielm2100e.team3:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:listDividerAlertDialog
+          @attr name com.ielm2100e.team3:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:listMenuViewStyle
+          @attr name com.ielm2100e.team3:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:listPopupWindowStyle
+          @attr name com.ielm2100e.team3:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5005,11 +5006,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:listPreferredItemHeight
+          @attr name com.ielm2100e.team3:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5021,11 +5022,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:listPreferredItemHeightLarge
+          @attr name com.ielm2100e.team3:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5037,11 +5038,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:listPreferredItemHeightSmall
+          @attr name com.ielm2100e.team3:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5053,11 +5054,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:listPreferredItemPaddingLeft
+          @attr name com.ielm2100e.team3:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5069,31 +5070,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:listPreferredItemPaddingRight
+          @attr name com.ielm2100e.team3:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:panelBackground
+          @attr name com.ielm2100e.team3:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:panelMenuListTheme
+          @attr name com.ielm2100e.team3:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5105,211 +5106,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:panelMenuListWidth
+          @attr name com.ielm2100e.team3:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:popupMenuStyle
+          @attr name com.ielm2100e.team3:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:popupWindowStyle
+          @attr name com.ielm2100e.team3:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:radioButtonStyle
+          @attr name com.ielm2100e.team3:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:ratingBarStyle
+          @attr name com.ielm2100e.team3:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:ratingBarStyleIndicator
+          @attr name com.ielm2100e.team3:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:ratingBarStyleSmall
+          @attr name com.ielm2100e.team3:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:searchViewStyle
+          @attr name com.ielm2100e.team3:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:seekBarStyle
+          @attr name com.ielm2100e.team3:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:selectableItemBackground
+          @attr name com.ielm2100e.team3:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:selectableItemBackgroundBorderless
+          @attr name com.ielm2100e.team3:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:spinnerDropDownItemStyle
+          @attr name com.ielm2100e.team3:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:spinnerStyle
+          @attr name com.ielm2100e.team3:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:switchStyle
+          @attr name com.ielm2100e.team3:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:textAppearanceLargePopupMenu
+          @attr name com.ielm2100e.team3:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:textAppearanceListItem
+          @attr name com.ielm2100e.team3:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:textAppearanceListItemSmall
+          @attr name com.ielm2100e.team3:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:textAppearancePopupMenuHeader
+          @attr name com.ielm2100e.team3:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:textAppearanceSearchResultSubtitle
+          @attr name com.ielm2100e.team3:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:textAppearanceSearchResultTitle
+          @attr name com.ielm2100e.team3:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:textAppearanceSmallPopupMenu
+          @attr name com.ielm2100e.team3:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5317,11 +5318,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.microblink.input:textColorAlertDialogListItem
+          @attr name com.ielm2100e.team3:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5329,31 +5330,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.microblink.input:textColorSearchUrl
+          @attr name com.ielm2100e.team3:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:toolbarNavigationButtonStyle
+          @attr name com.ielm2100e.team3:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:toolbarStyle
+          @attr name com.ielm2100e.team3:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5363,11 +5364,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowActionBar
+          @attr name com.ielm2100e.team3:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5377,11 +5378,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowActionBarOverlay
+          @attr name com.ielm2100e.team3:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5391,11 +5392,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowActionModeOverlay
+          @attr name com.ielm2100e.team3:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5410,11 +5411,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowFixedHeightMajor
+          @attr name com.ielm2100e.team3:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5429,11 +5430,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowFixedHeightMinor
+          @attr name com.ielm2100e.team3:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5448,11 +5449,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowFixedWidthMajor
+          @attr name com.ielm2100e.team3:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5467,11 +5468,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowFixedWidthMinor
+          @attr name com.ielm2100e.team3:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5486,11 +5487,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowMinWidthMajor
+          @attr name com.ielm2100e.team3:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5505,11 +5506,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowMinWidthMinor
+          @attr name com.ielm2100e.team3:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5519,7 +5520,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:windowNoTitle
+          @attr name com.ielm2100e.team3:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BaseCameraView.
@@ -5528,8 +5529,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BaseCameraView_aspectMode com.microblink.input:aspectMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #BaseCameraView_initialOrientation com.microblink.input:initialOrientation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BaseCameraView_aspectMode com.ielm2100e.team3:aspectMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #BaseCameraView_initialOrientation com.ielm2100e.team3:initialOrientation}</code></td><td></td></tr>
            </table>
            @see #BaseCameraView_aspectMode
            @see #BaseCameraView_initialOrientation
@@ -5538,7 +5539,7 @@ containing a value of this type.
             0x7f0100a1, 0x7f0100a2
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#aspectMode}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#aspectMode}
           attribute's value can be found in the {@link #BaseCameraView} array.
 
 
@@ -5551,11 +5552,11 @@ containing a value of this type.
 <tr><td><code>fit</code></td><td>0</td><td></td></tr>
 <tr><td><code>fill</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:aspectMode
+          @attr name com.ielm2100e.team3:aspectMode
         */
         public static final int BaseCameraView_aspectMode = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#initialOrientation}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#initialOrientation}
           attribute's value can be found in the {@link #BaseCameraView} array.
 
 
@@ -5570,7 +5571,7 @@ containing a value of this type.
 <tr><td><code>inversePortrait</code></td><td>2</td><td></td></tr>
 <tr><td><code>landscapeLeft</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:initialOrientation
+          @attr name com.ielm2100e.team3:initialOrientation
         */
         public static final int BaseCameraView_initialOrientation = 0;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -5579,7 +5580,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.microblink.input:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.ielm2100e.team3:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -5587,7 +5588,7 @@ containing a value of this type.
             0x7f0100a3
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -5597,7 +5598,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:allowStacking
+          @attr name com.ielm2100e.team3:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CameraViewGroup.
@@ -5606,8 +5607,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CameraViewGroup_animateRotation com.microblink.input:animateRotation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CameraViewGroup_animationDuration com.microblink.input:animationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CameraViewGroup_animateRotation com.ielm2100e.team3:animateRotation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CameraViewGroup_animationDuration com.ielm2100e.team3:animationDuration}</code></td><td></td></tr>
            </table>
            @see #CameraViewGroup_animateRotation
            @see #CameraViewGroup_animationDuration
@@ -5616,7 +5617,7 @@ containing a value of this type.
             0x7f0100a4, 0x7f0100a5
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#animateRotation}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#animateRotation}
           attribute's value can be found in the {@link #CameraViewGroup} array.
 
 
@@ -5626,11 +5627,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:animateRotation
+          @attr name com.ielm2100e.team3:animateRotation
         */
         public static final int CameraViewGroup_animateRotation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#animationDuration}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#animationDuration}
           attribute's value can be found in the {@link #CameraViewGroup} array.
 
 
@@ -5640,7 +5641,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:animationDuration
+          @attr name com.ielm2100e.team3:animationDuration
         */
         public static final int CameraViewGroup_animationDuration = 1;
         /** Attributes that can be used with a CameraViewGroup_LayoutParams.
@@ -5649,7 +5650,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CameraViewGroup_LayoutParams_rotatable com.microblink.input:rotatable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CameraViewGroup_LayoutParams_rotatable com.ielm2100e.team3:rotatable}</code></td><td></td></tr>
            </table>
            @see #CameraViewGroup_LayoutParams_rotatable
          */
@@ -5657,7 +5658,7 @@ containing a value of this type.
             0x7f0100a6
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#rotatable}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#rotatable}
           attribute's value can be found in the {@link #CameraViewGroup_LayoutParams} array.
 
 
@@ -5667,7 +5668,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:rotatable
+          @attr name com.ielm2100e.team3:rotatable
         */
         public static final int CameraViewGroup_LayoutParams_rotatable = 0;
         /** Attributes that can be used with a CirclePageIndicator.
@@ -5678,13 +5679,13 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CirclePageIndicator_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #CirclePageIndicator_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_centered com.microblink.input:centered}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_fillColor com.microblink.input:fillColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_pageColor com.microblink.input:pageColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_radius com.microblink.input:radius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_snap com.microblink.input:snap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_strokeColor com.microblink.input:strokeColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CirclePageIndicator_strokeWidth com.microblink.input:strokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_centered com.ielm2100e.team3:centered}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_fillColor com.ielm2100e.team3:fillColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_pageColor com.ielm2100e.team3:pageColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_radius com.ielm2100e.team3:radius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_snap com.ielm2100e.team3:snap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_strokeColor com.ielm2100e.team3:strokeColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CirclePageIndicator_strokeWidth com.ielm2100e.team3:strokeWidth}</code></td><td></td></tr>
            </table>
            @see #CirclePageIndicator_android_background
            @see #CirclePageIndicator_android_orientation
@@ -5714,7 +5715,7 @@ containing a value of this type.
         */
         public static final int CirclePageIndicator_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#centered}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#centered}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -5724,11 +5725,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:centered
+          @attr name com.ielm2100e.team3:centered
         */
         public static final int CirclePageIndicator_centered = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#fillColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#fillColor}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -5739,11 +5740,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:fillColor
+          @attr name com.ielm2100e.team3:fillColor
         */
         public static final int CirclePageIndicator_fillColor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#pageColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#pageColor}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -5754,11 +5755,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:pageColor
+          @attr name com.ielm2100e.team3:pageColor
         */
         public static final int CirclePageIndicator_pageColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#radius}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#radius}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -5770,11 +5771,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:radius
+          @attr name com.ielm2100e.team3:radius
         */
         public static final int CirclePageIndicator_radius = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#snap}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#snap}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -5784,11 +5785,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:snap
+          @attr name com.ielm2100e.team3:snap
         */
         public static final int CirclePageIndicator_snap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#strokeColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#strokeColor}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -5799,11 +5800,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:strokeColor
+          @attr name com.ielm2100e.team3:strokeColor
         */
         public static final int CirclePageIndicator_strokeColor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#strokeWidth}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#strokeWidth}
           attribute's value can be found in the {@link #CirclePageIndicator} array.
 
 
@@ -5815,7 +5816,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:strokeWidth
+          @attr name com.ielm2100e.team3:strokeWidth
         */
         public static final int CirclePageIndicator_strokeWidth = 3;
         /** Attributes that can be used with a ColorStateListItem.
@@ -5824,7 +5825,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.microblink.input:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.ielm2100e.team3:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -5836,7 +5837,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100ac
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -5846,7 +5847,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:alpha
+          @attr name com.ielm2100e.team3:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -5868,8 +5869,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.microblink.input:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.microblink.input:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.ielm2100e.team3:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.ielm2100e.team3:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -5885,7 +5886,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -5896,11 +5897,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:buttonTint
+          @attr name com.ielm2100e.team3:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -5916,7 +5917,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:buttonTintMode
+          @attr name com.ielm2100e.team3:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -5925,14 +5926,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.microblink.input:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.microblink.input:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.microblink.input:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.microblink.input:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.microblink.input:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.microblink.input:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.microblink.input:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.microblink.input:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.ielm2100e.team3:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.ielm2100e.team3:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.ielm2100e.team3:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.ielm2100e.team3:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.ielm2100e.team3:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.ielm2100e.team3:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.ielm2100e.team3:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.ielm2100e.team3:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -5948,7 +5949,7 @@ containing a value of this type.
             0x7f0100b3, 0x7f0100b4, 0x7f0100b5, 0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5960,11 +5961,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:arrowHeadLength
+          @attr name com.ielm2100e.team3:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5976,11 +5977,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:arrowShaftLength
+          @attr name com.ielm2100e.team3:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -5992,11 +5993,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:barLength
+          @attr name com.ielm2100e.team3:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#color}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6007,11 +6008,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:color
+          @attr name com.ielm2100e.team3:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6023,11 +6024,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:drawableSize
+          @attr name com.ielm2100e.team3:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6039,11 +6040,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:gapBetweenBars
+          @attr name com.ielm2100e.team3:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6053,11 +6054,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:spinBars
+          @attr name com.ielm2100e.team3:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -6069,7 +6070,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:thickness
+          @attr name com.ielm2100e.team3:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a LinePageIndicator.
@@ -6079,12 +6080,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #LinePageIndicator_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinePageIndicator_centered com.microblink.input:centered}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinePageIndicator_gapWidth com.microblink.input:gapWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinePageIndicator_lineWidth com.microblink.input:lineWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinePageIndicator_selectedColor com.microblink.input:selectedColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinePageIndicator_strokeWidth com.microblink.input:strokeWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinePageIndicator_unselectedColor com.microblink.input:unselectedColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinePageIndicator_centered com.ielm2100e.team3:centered}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinePageIndicator_gapWidth com.ielm2100e.team3:gapWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinePageIndicator_lineWidth com.ielm2100e.team3:lineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinePageIndicator_selectedColor com.ielm2100e.team3:selectedColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinePageIndicator_strokeWidth com.ielm2100e.team3:strokeWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinePageIndicator_unselectedColor com.ielm2100e.team3:unselectedColor}</code></td><td></td></tr>
            </table>
            @see #LinePageIndicator_android_background
            @see #LinePageIndicator_centered
@@ -6105,7 +6106,7 @@ containing a value of this type.
         */
         public static final int LinePageIndicator_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#centered}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#centered}
           attribute's value can be found in the {@link #LinePageIndicator} array.
 
 
@@ -6115,11 +6116,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:centered
+          @attr name com.ielm2100e.team3:centered
         */
         public static final int LinePageIndicator_centered = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#gapWidth}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#gapWidth}
           attribute's value can be found in the {@link #LinePageIndicator} array.
 
 
@@ -6131,11 +6132,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:gapWidth
+          @attr name com.ielm2100e.team3:gapWidth
         */
         public static final int LinePageIndicator_gapWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#lineWidth}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#lineWidth}
           attribute's value can be found in the {@link #LinePageIndicator} array.
 
 
@@ -6147,11 +6148,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:lineWidth
+          @attr name com.ielm2100e.team3:lineWidth
         */
         public static final int LinePageIndicator_lineWidth = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#selectedColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#selectedColor}
           attribute's value can be found in the {@link #LinePageIndicator} array.
 
 
@@ -6162,11 +6163,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:selectedColor
+          @attr name com.ielm2100e.team3:selectedColor
         */
         public static final int LinePageIndicator_selectedColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#strokeWidth}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#strokeWidth}
           attribute's value can be found in the {@link #LinePageIndicator} array.
 
 
@@ -6178,11 +6179,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:strokeWidth
+          @attr name com.ielm2100e.team3:strokeWidth
         */
         public static final int LinePageIndicator_strokeWidth = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#unselectedColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#unselectedColor}
           attribute's value can be found in the {@link #LinePageIndicator} array.
 
 
@@ -6193,7 +6194,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:unselectedColor
+          @attr name com.ielm2100e.team3:unselectedColor
         */
         public static final int LinePageIndicator_unselectedColor = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -6207,10 +6208,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.microblink.input:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.microblink.input:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.microblink.input:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.microblink.input:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.ielm2100e.team3:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.ielm2100e.team3:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.ielm2100e.team3:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.ielm2100e.team3:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -6258,17 +6259,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:divider
+          @attr name com.ielm2100e.team3:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6280,11 +6281,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:dividerPadding
+          @attr name com.ielm2100e.team3:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6294,11 +6295,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:measureWithLargestChild
+          @attr name com.ielm2100e.team3:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -6313,7 +6314,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:showDividers
+          @attr name com.ielm2100e.team3:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -6452,9 +6453,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.microblink.input:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.microblink.input:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.microblink.input:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.ielm2100e.team3:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.ielm2100e.team3:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.ielm2100e.team3:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -6468,7 +6469,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.microblink.input:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.ielm2100e.team3:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -6496,17 +6497,17 @@ containing a value of this type.
             0x7f0100bf
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:actionLayout
+          @attr name com.ielm2100e.team3:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6516,11 +6517,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:actionProviderClass
+          @attr name com.ielm2100e.team3:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6530,7 +6531,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:actionViewClass
+          @attr name com.ielm2100e.team3:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -6612,7 +6613,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -6628,7 +6629,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:showAsAction
+          @attr name com.ielm2100e.team3:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -6644,8 +6645,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.microblink.input:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.microblink.input:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.ielm2100e.team3:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.ielm2100e.team3:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -6705,7 +6706,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -6715,17 +6716,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:preserveIconSpacing
+          @attr name com.ielm2100e.team3:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:subMenuArrow
+          @attr name com.ielm2100e.team3:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a PopupWindow.
@@ -6736,7 +6737,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.microblink.input:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.ielm2100e.team3:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -6758,7 +6759,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -6768,7 +6769,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:overlapAnchor
+          @attr name com.ielm2100e.team3:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -6777,7 +6778,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.microblink.input:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.ielm2100e.team3:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -6785,7 +6786,7 @@ containing a value of this type.
             0x7f0100c3
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -6795,7 +6796,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:state_above_anchor
+          @attr name com.ielm2100e.team3:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -6804,8 +6805,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.microblink.input:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.microblink.input:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.ielm2100e.team3:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.ielm2100e.team3:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -6814,7 +6815,7 @@ containing a value of this type.
             0x7f0100c4, 0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -6826,11 +6827,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:paddingBottomNoButtons
+          @attr name com.ielm2100e.team3:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -6842,7 +6843,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:paddingTopNoTitle
+          @attr name com.ielm2100e.team3:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a SearchView.
@@ -6855,19 +6856,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.microblink.input:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.microblink.input:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.microblink.input:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.microblink.input:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.microblink.input:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.microblink.input:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.microblink.input:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.microblink.input:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.microblink.input:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.microblink.input:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.microblink.input:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.microblink.input:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.microblink.input:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.ielm2100e.team3:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.ielm2100e.team3:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.ielm2100e.team3:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.ielm2100e.team3:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.ielm2100e.team3:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.ielm2100e.team3:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.ielm2100e.team3:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.ielm2100e.team3:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.ielm2100e.team3:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.ielm2100e.team3:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.ielm2100e.team3:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.ielm2100e.team3:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.ielm2100e.team3:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -6919,27 +6920,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:closeIcon
+          @attr name com.ielm2100e.team3:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:commitIcon
+          @attr name com.ielm2100e.team3:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -6949,21 +6950,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:defaultQueryHint
+          @attr name com.ielm2100e.team3:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:goIcon
+          @attr name com.ielm2100e.team3:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -6973,31 +6974,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:iconifiedByDefault
+          @attr name com.ielm2100e.team3:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:layout
+          @attr name com.ielm2100e.team3:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:queryBackground
+          @attr name com.ielm2100e.team3:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -7007,57 +7008,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:queryHint
+          @attr name com.ielm2100e.team3:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:searchHintIcon
+          @attr name com.ielm2100e.team3:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:searchIcon
+          @attr name com.ielm2100e.team3:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:submitBackground
+          @attr name com.ielm2100e.team3:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:suggestionRowLayout
+          @attr name com.ielm2100e.team3:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:voiceIcon
+          @attr name com.ielm2100e.team3:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a Spinner.
@@ -7070,7 +7071,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.microblink.input:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.ielm2100e.team3:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -7107,13 +7108,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:popupTheme
+          @attr name com.ielm2100e.team3:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -7125,17 +7126,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.microblink.input:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.microblink.input:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.microblink.input:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.microblink.input:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.microblink.input:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.microblink.input:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.microblink.input:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.microblink.input:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.microblink.input:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.microblink.input:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.microblink.input:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.ielm2100e.team3:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.ielm2100e.team3:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.ielm2100e.team3:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.ielm2100e.team3:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.ielm2100e.team3:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.ielm2100e.team3:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.ielm2100e.team3:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.ielm2100e.team3:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.ielm2100e.team3:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.ielm2100e.team3:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.ielm2100e.team3:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -7177,7 +7178,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7187,11 +7188,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:showText
+          @attr name com.ielm2100e.team3:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7201,11 +7202,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:splitTrack
+          @attr name com.ielm2100e.team3:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7217,11 +7218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:switchMinWidth
+          @attr name com.ielm2100e.team3:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7233,21 +7234,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:switchPadding
+          @attr name com.ielm2100e.team3:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:switchTextAppearance
+          @attr name com.ielm2100e.team3:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7259,11 +7260,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:thumbTextPadding
+          @attr name com.ielm2100e.team3:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7274,11 +7275,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:thumbTint
+          @attr name com.ielm2100e.team3:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7295,21 +7296,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:thumbTintMode
+          @attr name com.ielm2100e.team3:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#track}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:track
+          @attr name com.ielm2100e.team3:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7320,11 +7321,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:trackTint
+          @attr name com.ielm2100e.team3:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -7341,7 +7342,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:trackTintMode
+          @attr name com.ielm2100e.team3:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TextAppearance.
@@ -7359,7 +7360,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.microblink.input:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.ielm2100e.team3:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -7432,14 +7433,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.microblink.input:textAllCaps
+          @attr name com.ielm2100e.team3:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TitlePageIndicator.
@@ -7451,18 +7452,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TitlePageIndicator_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #TitlePageIndicator_android_textColor android:textColor}</code></td><td></td></tr>
            <tr><td><code>{@link #TitlePageIndicator_android_textSize android:textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_clipPadding com.microblink.input:clipPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerColor com.microblink.input:footerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorHeight com.microblink.input:footerIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorStyle com.microblink.input:footerIndicatorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorUnderlinePadding com.microblink.input:footerIndicatorUnderlinePadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerLineHeight com.microblink.input:footerLineHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_footerPadding com.microblink.input:footerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_linePosition com.microblink.input:linePosition}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_selectedBold com.microblink.input:selectedBold}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_selectedColor com.microblink.input:selectedColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_titlePadding com.microblink.input:titlePadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TitlePageIndicator_topPadding com.microblink.input:topPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_clipPadding com.ielm2100e.team3:clipPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerColor com.ielm2100e.team3:footerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorHeight com.ielm2100e.team3:footerIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorStyle com.ielm2100e.team3:footerIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerIndicatorUnderlinePadding com.ielm2100e.team3:footerIndicatorUnderlinePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerLineHeight com.ielm2100e.team3:footerLineHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_footerPadding com.ielm2100e.team3:footerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_linePosition com.ielm2100e.team3:linePosition}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_selectedBold com.ielm2100e.team3:selectedBold}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_selectedColor com.ielm2100e.team3:selectedColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_titlePadding com.ielm2100e.team3:titlePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TitlePageIndicator_topPadding com.ielm2100e.team3:topPadding}</code></td><td></td></tr>
            </table>
            @see #TitlePageIndicator_android_background
            @see #TitlePageIndicator_android_textColor
@@ -7505,7 +7506,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TitlePageIndicator_android_textSize = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#clipPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#clipPadding}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7517,11 +7518,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:clipPadding
+          @attr name com.ielm2100e.team3:clipPadding
         */
         public static final int TitlePageIndicator_clipPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#footerColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#footerColor}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7532,11 +7533,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:footerColor
+          @attr name com.ielm2100e.team3:footerColor
         */
         public static final int TitlePageIndicator_footerColor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#footerIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#footerIndicatorHeight}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7548,11 +7549,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:footerIndicatorHeight
+          @attr name com.ielm2100e.team3:footerIndicatorHeight
         */
         public static final int TitlePageIndicator_footerIndicatorHeight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#footerIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#footerIndicatorStyle}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7566,11 +7567,11 @@ containing a value of this type.
 <tr><td><code>triangle</code></td><td>1</td><td></td></tr>
 <tr><td><code>underline</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:footerIndicatorStyle
+          @attr name com.ielm2100e.team3:footerIndicatorStyle
         */
         public static final int TitlePageIndicator_footerIndicatorStyle = 7;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#footerIndicatorUnderlinePadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#footerIndicatorUnderlinePadding}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7582,11 +7583,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:footerIndicatorUnderlinePadding
+          @attr name com.ielm2100e.team3:footerIndicatorUnderlinePadding
         */
         public static final int TitlePageIndicator_footerIndicatorUnderlinePadding = 9;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#footerLineHeight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#footerLineHeight}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7598,11 +7599,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:footerLineHeight
+          @attr name com.ielm2100e.team3:footerLineHeight
         */
         public static final int TitlePageIndicator_footerLineHeight = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#footerPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#footerPadding}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7614,11 +7615,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:footerPadding
+          @attr name com.ielm2100e.team3:footerPadding
         */
         public static final int TitlePageIndicator_footerPadding = 10;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#linePosition}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#linePosition}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7631,11 +7632,11 @@ containing a value of this type.
 <tr><td><code>bottom</code></td><td>0</td><td></td></tr>
 <tr><td><code>top</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:linePosition
+          @attr name com.ielm2100e.team3:linePosition
         */
         public static final int TitlePageIndicator_linePosition = 11;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#selectedBold}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#selectedBold}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7645,11 +7646,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:selectedBold
+          @attr name com.ielm2100e.team3:selectedBold
         */
         public static final int TitlePageIndicator_selectedBold = 12;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#selectedColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#selectedColor}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7660,11 +7661,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:selectedColor
+          @attr name com.ielm2100e.team3:selectedColor
         */
         public static final int TitlePageIndicator_selectedColor = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titlePadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titlePadding}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7676,11 +7677,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titlePadding
+          @attr name com.ielm2100e.team3:titlePadding
         */
         public static final int TitlePageIndicator_titlePadding = 13;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#topPadding}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#topPadding}
           attribute's value can be found in the {@link #TitlePageIndicator} array.
 
 
@@ -7692,7 +7693,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:topPadding
+          @attr name com.ielm2100e.team3:topPadding
         */
         public static final int TitlePageIndicator_topPadding = 14;
         /** Attributes that can be used with a Toolbar.
@@ -7703,33 +7704,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.microblink.input:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.microblink.input:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.microblink.input:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.microblink.input:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.microblink.input:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.microblink.input:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.microblink.input:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.microblink.input:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.microblink.input:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.microblink.input:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.microblink.input:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.microblink.input:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.microblink.input:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.microblink.input:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.microblink.input:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.microblink.input:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.microblink.input:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.microblink.input:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.microblink.input:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.microblink.input:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.microblink.input:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.microblink.input:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.microblink.input:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.microblink.input:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.microblink.input:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.microblink.input:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.microblink.input:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.ielm2100e.team3:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.ielm2100e.team3:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.ielm2100e.team3:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.ielm2100e.team3:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.ielm2100e.team3:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.ielm2100e.team3:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.ielm2100e.team3:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.ielm2100e.team3:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.ielm2100e.team3:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.ielm2100e.team3:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.ielm2100e.team3:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.ielm2100e.team3:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.ielm2100e.team3:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.ielm2100e.team3:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.ielm2100e.team3:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.ielm2100e.team3:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.ielm2100e.team3:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.ielm2100e.team3:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.ielm2100e.team3:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.ielm2100e.team3:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.ielm2100e.team3:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.ielm2100e.team3:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.ielm2100e.team3:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.ielm2100e.team3:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.ielm2100e.team3:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.ielm2100e.team3:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.ielm2100e.team3:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -7784,7 +7785,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7797,11 +7798,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:buttonGravity
+          @attr name com.ielm2100e.team3:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7811,21 +7812,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:collapseContentDescription
+          @attr name com.ielm2100e.team3:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:collapseIcon
+          @attr name com.ielm2100e.team3:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7837,11 +7838,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetEnd
+          @attr name com.ielm2100e.team3:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7853,11 +7854,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetEndWithActions
+          @attr name com.ielm2100e.team3:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7869,11 +7870,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetLeft
+          @attr name com.ielm2100e.team3:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7885,11 +7886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetRight
+          @attr name com.ielm2100e.team3:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7901,11 +7902,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetStart
+          @attr name com.ielm2100e.team3:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7917,21 +7918,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:contentInsetStartWithNavigation
+          @attr name com.ielm2100e.team3:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:logo
+          @attr name com.ielm2100e.team3:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7941,11 +7942,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:logoDescription
+          @attr name com.ielm2100e.team3:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7957,11 +7958,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:maxButtonHeight
+          @attr name com.ielm2100e.team3:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -7971,31 +7972,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:navigationContentDescription
+          @attr name com.ielm2100e.team3:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:navigationIcon
+          @attr name com.ielm2100e.team3:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:popupTheme
+          @attr name com.ielm2100e.team3:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8005,21 +8006,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:subtitle
+          @attr name com.ielm2100e.team3:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:subtitleTextAppearance
+          @attr name com.ielm2100e.team3:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8030,11 +8031,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:subtitleTextColor
+          @attr name com.ielm2100e.team3:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#title}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8044,11 +8045,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:title
+          @attr name com.ielm2100e.team3:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8060,11 +8061,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titleMargin
+          @attr name com.ielm2100e.team3:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8076,11 +8077,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titleMarginBottom
+          @attr name com.ielm2100e.team3:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8092,11 +8093,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titleMarginEnd
+          @attr name com.ielm2100e.team3:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8108,11 +8109,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titleMarginStart
+          @attr name com.ielm2100e.team3:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8124,11 +8125,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titleMarginTop
+          @attr name com.ielm2100e.team3:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8140,21 +8141,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titleMargins
+          @attr name com.ielm2100e.team3:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:titleTextAppearance
+          @attr name com.ielm2100e.team3:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8165,7 +8166,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:titleTextColor
+          @attr name com.ielm2100e.team3:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a UnderlinePageIndicator.
@@ -8175,10 +8176,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #UnderlinePageIndicator_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_fadeDelay com.microblink.input:fadeDelay}</code></td><td></td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_fadeLength com.microblink.input:fadeLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_fades com.microblink.input:fades}</code></td><td></td></tr>
-           <tr><td><code>{@link #UnderlinePageIndicator_selectedColor com.microblink.input:selectedColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_fadeDelay com.ielm2100e.team3:fadeDelay}</code></td><td></td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_fadeLength com.ielm2100e.team3:fadeLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_fades com.ielm2100e.team3:fades}</code></td><td></td></tr>
+           <tr><td><code>{@link #UnderlinePageIndicator_selectedColor com.ielm2100e.team3:selectedColor}</code></td><td></td></tr>
            </table>
            @see #UnderlinePageIndicator_android_background
            @see #UnderlinePageIndicator_fadeDelay
@@ -8197,7 +8198,7 @@ containing a value of this type.
         */
         public static final int UnderlinePageIndicator_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#fadeDelay}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#fadeDelay}
           attribute's value can be found in the {@link #UnderlinePageIndicator} array.
 
 
@@ -8207,11 +8208,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:fadeDelay
+          @attr name com.ielm2100e.team3:fadeDelay
         */
         public static final int UnderlinePageIndicator_fadeDelay = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#fadeLength}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#fadeLength}
           attribute's value can be found in the {@link #UnderlinePageIndicator} array.
 
 
@@ -8221,11 +8222,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:fadeLength
+          @attr name com.ielm2100e.team3:fadeLength
         */
         public static final int UnderlinePageIndicator_fadeLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#fades}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#fades}
           attribute's value can be found in the {@link #UnderlinePageIndicator} array.
 
 
@@ -8235,11 +8236,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:fades
+          @attr name com.ielm2100e.team3:fades
         */
         public static final int UnderlinePageIndicator_fades = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#selectedColor}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#selectedColor}
           attribute's value can be found in the {@link #UnderlinePageIndicator} array.
 
 
@@ -8250,7 +8251,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:selectedColor
+          @attr name com.ielm2100e.team3:selectedColor
         */
         public static final int UnderlinePageIndicator_selectedColor = 1;
         /** Attributes that can be used with a View.
@@ -8261,9 +8262,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.microblink.input:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.microblink.input:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.microblink.input:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.ielm2100e.team3:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.ielm2100e.team3:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.ielm2100e.team3:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -8288,7 +8289,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8300,11 +8301,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:paddingEnd
+          @attr name com.ielm2100e.team3:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8316,17 +8317,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:paddingStart
+          @attr name com.ielm2100e.team3:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:theme
+          @attr name com.ielm2100e.team3:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -8336,8 +8337,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.microblink.input:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.microblink.input:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.ielm2100e.team3:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.ielm2100e.team3:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -8353,7 +8354,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8364,11 +8365,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.microblink.input:backgroundTint
+          @attr name com.ielm2100e.team3:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -8384,7 +8385,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.microblink.input:backgroundTintMode
+          @attr name com.ielm2100e.team3:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewPagerIndicator.
@@ -8393,12 +8394,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiCirclePageIndicatorStyle com.microblink.input:vpiCirclePageIndicatorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiIconPageIndicatorStyle com.microblink.input:vpiIconPageIndicatorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiLinePageIndicatorStyle com.microblink.input:vpiLinePageIndicatorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiTabPageIndicatorStyle com.microblink.input:vpiTabPageIndicatorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiTitlePageIndicatorStyle com.microblink.input:vpiTitlePageIndicatorStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewPagerIndicator_vpiUnderlinePageIndicatorStyle com.microblink.input:vpiUnderlinePageIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiCirclePageIndicatorStyle com.ielm2100e.team3:vpiCirclePageIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiIconPageIndicatorStyle com.ielm2100e.team3:vpiIconPageIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiLinePageIndicatorStyle com.ielm2100e.team3:vpiLinePageIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiTabPageIndicatorStyle com.ielm2100e.team3:vpiTabPageIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiTitlePageIndicatorStyle com.ielm2100e.team3:vpiTitlePageIndicatorStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewPagerIndicator_vpiUnderlinePageIndicatorStyle com.ielm2100e.team3:vpiUnderlinePageIndicatorStyle}</code></td><td></td></tr>
            </table>
            @see #ViewPagerIndicator_vpiCirclePageIndicatorStyle
            @see #ViewPagerIndicator_vpiIconPageIndicatorStyle
@@ -8412,63 +8413,63 @@ containing a value of this type.
             0x7f010106, 0x7f010107
         };
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#vpiCirclePageIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#vpiCirclePageIndicatorStyle}
           attribute's value can be found in the {@link #ViewPagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:vpiCirclePageIndicatorStyle
+          @attr name com.ielm2100e.team3:vpiCirclePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#vpiIconPageIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#vpiIconPageIndicatorStyle}
           attribute's value can be found in the {@link #ViewPagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:vpiIconPageIndicatorStyle
+          @attr name com.ielm2100e.team3:vpiIconPageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiIconPageIndicatorStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#vpiLinePageIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#vpiLinePageIndicatorStyle}
           attribute's value can be found in the {@link #ViewPagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:vpiLinePageIndicatorStyle
+          @attr name com.ielm2100e.team3:vpiLinePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiLinePageIndicatorStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#vpiTabPageIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#vpiTabPageIndicatorStyle}
           attribute's value can be found in the {@link #ViewPagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:vpiTabPageIndicatorStyle
+          @attr name com.ielm2100e.team3:vpiTabPageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiTabPageIndicatorStyle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#vpiTitlePageIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#vpiTitlePageIndicatorStyle}
           attribute's value can be found in the {@link #ViewPagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:vpiTitlePageIndicatorStyle
+          @attr name com.ielm2100e.team3:vpiTitlePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiTitlePageIndicatorStyle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.microblink.input.R.attr#vpiUnderlinePageIndicatorStyle}
+          <p>This symbol is the offset where the {@link com.ielm2100e.team3.R.attr#vpiUnderlinePageIndicatorStyle}
           attribute's value can be found in the {@link #ViewPagerIndicator} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.microblink.input:vpiUnderlinePageIndicatorStyle
+          @attr name com.ielm2100e.team3:vpiUnderlinePageIndicatorStyle
         */
         public static final int ViewPagerIndicator_vpiUnderlinePageIndicatorStyle = 5;
         /** Attributes that can be used with a ViewStubCompat.
