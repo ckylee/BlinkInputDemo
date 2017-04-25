@@ -12,6 +12,14 @@
 
 
     <Button
+        android:id="@+id/uploadFile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:onClick="uploadCSV"
+        android:text="UPLOAD CSV"/>
+
+    <Button
         android:id="@+id/btnCustomUI"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
