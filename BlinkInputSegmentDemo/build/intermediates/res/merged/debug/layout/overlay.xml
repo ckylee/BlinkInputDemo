@@ -99,10 +99,11 @@
                 android:layout_marginRight="@dimen/activity_horizontal_margin"
                 android:layout_marginTop="@dimen/activity_vertical_margin"
                 android:background="#00000000"
-                android:onClick="onBtnFlashClicked"
+                android:onClick="autoFocusScreen"
                 android:src="@drawable/flashlight"
                 android:visibility="gone"
                 tools:visibility="visible" />
+
 
             <LinearLayout
                 android:layout_width="match_parent"

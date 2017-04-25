@@ -9,6 +9,7 @@ import android.content.res.Configuration;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.os.Bundle;
+import android.support.v4.app.DialogFragment;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.View;
@@ -39,6 +40,7 @@ import com.microblink.view.recognition.ScanResultListener;
 
 public class ScanActivity extends Activity implements CameraEventsListener, ScanResultListener {
 
+
     /** RecognizerView is the builtin view that controls camera and recognition */
     private RecognizerView mRecognizerView;
 
@@ -53,6 +55,7 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
     private ImageButton mFlashButton;
     /** Layout which holds scan result. */
     private View mResultView;
+    public String scanned;
     /** Shows scan result string. */
     private EditText mResult;
     /** Flashlight state. */
@@ -265,6 +268,7 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         }
     }
 
+
     @Override
     public void onCameraPreviewStarted() {
         // this method is called when camera preview has started
@@ -272,6 +276,14 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         // it is ready, this method is called.
         // You can use it to check camera properties, such as whether
         // torch is supported and then show/hide torch button.
+
+
+        if (mRecognizerView.isCameraFocused() == false) {
+
+            mRecognizerView.focusCamera();
+
+        }
+
         if (mRecognizerView != null && mRecognizerView.isCameraTorchSupported()) {
             mFlashButton.setVisibility(View.VISIBLE);
             mFlashButton.setImageResource(R.drawable.flashlight);
@@ -348,7 +360,7 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         if (dataArray != null && dataArray.length == 1) {
             if (dataArray[0] instanceof BlinkOCRRecognitionResult) {
                 BlinkOCRRecognitionResult result = (BlinkOCRRecognitionResult) dataArray[0];
-                String scanned = result.getParsedResult(mConfiguration[mSelectedConfiguration].getParserName());
+                scanned = result.getParsedResult(mConfiguration[mSelectedConfiguration].getParserName());
                 if(scanned != null && !scanned.isEmpty()) {
                     mResult.setText(scanned);
                     mResultView.setVisibility(View.VISIBLE);
@@ -406,7 +418,19 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         });
     }
 
-    public void onBtnAcceptClicked(View v) {
+    public void onBtnAcceptClicked(View v){
+
+        AlertDialog alertDialog = new AlertDialog.Builder(ScanActivity.this).create(); //Read Update
+        alertDialog.setTitle("hi");
+        alertDialog.setMessage(scanned);
+
+        alertDialog.setButton("Continue..", new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int which) {
+                // here you can add functions
+            }
+        });
+
+        alertDialog.show();
         // do something with data from mResult
         mSelectedConfiguration = (mSelectedConfiguration + 1) % mConfiguration.length;
         // hide previous result
@@ -461,6 +485,11 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         public void destroyItem(ViewGroup container, int position, Object object) {
             container.removeView((View) object);
         }
+    }
+
+    public void matchingAlgorithm() {
+        System.out.print("Hello!");
+
     }
 
 }
