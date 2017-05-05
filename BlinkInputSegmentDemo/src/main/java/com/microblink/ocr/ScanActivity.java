@@ -9,7 +9,6 @@ import android.content.res.Configuration;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.os.Bundle;
-import android.support.v4.app.DialogFragment;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.View;
@@ -21,7 +20,6 @@ import android.widget.Toast;
 
 import com.microblink.geometry.Rectangle;
 import com.microblink.hardware.SuccessCallback;
-import com.microblink.hardware.camera.CameraType;
 import com.microblink.help.HelpActivity;
 import com.microblink.recognition.InvalidLicenceKeyException;
 import com.microblink.recognizers.BaseRecognitionResult;
@@ -36,6 +34,11 @@ import com.microblink.view.CameraAspectMode;
 import com.microblink.view.CameraEventsListener;
 import com.microblink.view.recognition.RecognizerView;
 import com.microblink.view.recognition.ScanResultListener;
+
+import java.io.FileNotFoundException;
+import java.io.InputStream;
+import java.text.DecimalFormat;
+import java.util.Scanner;
 
 
 public class ScanActivity extends Activity implements CameraEventsListener, ScanResultListener {
@@ -68,6 +71,18 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
     private ScanConfiguration[] mConfiguration = Configurator.createScanConfigurations();
     /** Index of selected configuration. */
     private int mSelectedConfiguration = 0;
+    /** For matching algorithm scanning. */
+    public InputStream file;
+    public Scanner input;
+    public String[][] top3Info = new String[3][2]; //[percentage][Info]
+    public double[] top3Comparison = new double[3];
+    public double percentage = 0;
+    public int ranking;
+    public String line = "";
+    public String[] columnHeader;
+    public String finalResult = "";
+    public String[] commaSplitArr;
+    public DecimalFormat df = new DecimalFormat("0.00##");
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -418,11 +433,12 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         });
     }
 
-    public void onBtnAcceptClicked(View v){
+    public void onBtnAcceptClicked(View v) throws FileNotFoundException{
 
         AlertDialog alertDialog = new AlertDialog.Builder(ScanActivity.this).create(); //Read Update
         alertDialog.setTitle("hi");
-        alertDialog.setMessage(scanned);
+        //alertDialog.setMessage(scanned);
+        alertDialog.setMessage(returnMatches());
 
         alertDialog.setButton("Continue..", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
@@ -487,9 +503,114 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
         }
     }
 
-    public void matchingAlgorithm() {
-        System.out.print("Hello!");
+    //****Custom made methods****//
+    public void loadCSVfile() throws FileNotFoundException {
+
+        file = getResources().openRawResource(R.raw.cartondata);
+        input = new Scanner(file);
+    }
+
+
+    public String returnMatches() throws FileNotFoundException{
+        loadCSVfile();
+        //save first line as column header
+
+        columnHeader = input.nextLine().split(",");
+
+        while(input.hasNextLine()) {
+            line = input.nextLine();
+            commaSplitArr = line.split(",");
+            for(int i = 0; i < commaSplitArr.length; i++) {
+                percentage = 100 * similarity(scanned, commaSplitArr[i]);
+                updateTop3();
+            }
+        }
+
+        String[] splitarr;
+        for (int i = 1 ; i < 4; i++) {
+            finalResult += "#" + Integer.toString(i) + " match -- " + df.format(Double.parseDouble(top3Info[i-1][0])) + "%" + "\n";
+            splitarr = top3Info[i-1][1].split(",");
+            for(int j = 0; j < columnHeader.length; j++) {
+                finalResult += columnHeader[j] + " : " + splitarr[j] + "\n";
+            }
+            finalResult += "\n\n";
+        }
+
+        return finalResult;
 
     }
+
+    public String[][] updateTop3() {
+        //update top info -- if percentage is higher, update. else ignore.
+        if (percentage > top3Comparison[0]) {
+            ranking = 1;
+            shiftPositions(ranking);
+        } else if (percentage > top3Comparison[1]) {
+            ranking = 2;
+            shiftPositions(ranking);
+        } else if (percentage > top3Comparison[2]) {
+            ranking = 3;
+            shiftPositions(ranking);
+        }
+
+        return top3Info;
+    }
+
+    public void shiftPositions(int rank) {
+        for(int j = top3Comparison.length; j > 1; j--) {
+            top3Comparison[j-1] = top3Comparison[j-2];
+            System.arraycopy(top3Info[j-2], 0, top3Info[j-1], 0, 2);
+        }
+        top3Comparison[rank-1] = percentage;
+        top3Info[rank-1][0] = Double.toString(percentage);
+        top3Info[rank-1][1] = line;
+    }
+
+    /**
+     * Calculates the similarity (a number within 0 and 1) between two strings.
+     */
+    public static double similarity(String s1, String s2) {
+        String longer = s1, shorter = s2;
+        if (s1.length() < s2.length()) { // longer should always have greater length
+            longer = s2; shorter = s1;
+        }
+        int longerLength = longer.length();
+        if (longerLength == 0) { return 1.0; /* both strings are zero length */ }
+    /* // If you have StringUtils, you can use it to calculate the edit distance:
+    return (longerLength - StringUtils.getLevenshteinDistance(longer, shorter)) /
+                               (double) longerLength; */
+        return (longerLength - editDistance(longer, shorter)) / (double) longerLength;
+
+    }
+
+    // Example implementation of the Levenshtein Edit Distance
+    // See http://rosettacode.org/wiki/Levenshtein_distance#Java
+    public static int editDistance(String s1, String s2) {
+        s1 = s1.toLowerCase();
+        s2 = s2.toLowerCase();
+
+        int[] costs = new int[s2.length() + 1];
+        for (int i = 0; i <= s1.length(); i++) {
+            int lastValue = i;
+            for (int j = 0; j <= s2.length(); j++) {
+                if (i == 0)
+                    costs[j] = j;
+                else {
+                    if (j > 0) {
+                        int newValue = costs[j - 1];
+                        if (s1.charAt(i - 1) != s2.charAt(j - 1))
+                            newValue = Math.min(Math.min(newValue, lastValue),
+                                    costs[j]) + 1;
+                        costs[j - 1] = lastValue;
+                        lastValue = newValue;
+                    }
+                }
+            }
+            if (i > 0)
+                costs[s2.length()] = lastValue;
+        }
+        return costs[s2.length()];
+    }
+
 
 }
