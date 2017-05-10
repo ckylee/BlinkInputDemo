@@ -49,7 +49,7 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
 
     // obtain your licence key at http://microblink.com/login or
     // contact us at http://help.microblink.com
-    private static final String LICENSE_KEY = "E6RHCO64-Y5QPOYZV-V67PXGJV-V3O43IWZ-ZF32PZNQ-M5F6C5UC-PVRXKSDZ-U6M2YGNG";
+    private static final String LICENSE_KEY = "2Z7ZY7GF-VWRQWTPF-WBVW3E5V-AIUPI6NP-WJGFHEZV-V6ZEYU4T-GWX3F3DR-3WYUL6D6";
     /** CameraPermissionManager is provided helper class that can be used to obtain the permission to use camera.
      * It is used on Android 6.0 (API level 23) or newer.
      */
