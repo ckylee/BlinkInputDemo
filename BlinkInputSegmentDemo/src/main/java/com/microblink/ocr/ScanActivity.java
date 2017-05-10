@@ -353,7 +353,7 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
     @Override
     public void onAutofocusFailed() {
         // This method is called when camera focusing has failed.
-        // You should inform user to try scanning under different light.
+        // You should inform user to tr y scanning under different light.
     }
 
     @Override
@@ -436,13 +436,19 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
     public void onBtnAcceptClicked(View v) throws FileNotFoundException{
 
         AlertDialog alertDialog = new AlertDialog.Builder(ScanActivity.this).create(); //Read Update
-        alertDialog.setTitle("hi");
+        alertDialog.setTitle("Result");
         //alertDialog.setMessage(scanned);
         alertDialog.setMessage(returnMatches());
 
         alertDialog.setButton("Continue..", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
-                // here you can add functions
+                // reinitialize all variables
+                Intent intent = getIntent();
+                finish();
+                startActivity(intent);
+
+                overridePendingTransition(0, 0);
+                intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
             }
         });
 
@@ -513,8 +519,11 @@ public class ScanActivity extends Activity implements CameraEventsListener, Scan
 
     public String returnMatches() throws FileNotFoundException{
         loadCSVfile();
-        //save first line as column header
 
+        //clean the scanned text before processing
+        scanned = scanned.replace("\n", "").replace("\r","");
+
+        //save first line as column header
         columnHeader = input.nextLine().split(",");
 
         while(input.hasNextLine()) {
